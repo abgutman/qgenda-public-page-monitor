@@ -1,0 +1,94 @@
+name: Monitor public QGenda landing pages
+
+on:
+  schedule:
+    - cron: "17 * * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: qgenda-public-page-monitor
+  cancel-in-progress: false
+
+jobs:
+  monitor:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Run tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Check landing pages
+        id: monitor
+        run: |
+          python monitor.py --pages pages.json --state .monitor/state.json --report .monitor/report.json
+          count=$(python -c 'import json; print(json.load(open(".monitor/report.json"))["change_count"])')
+          echo "change_count=$count" >> "$GITHUB_OUTPUT"
+
+      - name: Open monitor-failure issue
+        if: failure() && steps.monitor.outcome == 'failure'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "QGenda monitor health check failed";
+            const body = `The hourly monitor could not complete. [Inspect this workflow run](${context.serverUrl}/${context.repo.owner}/${context.repo.repo}/actions/runs/${context.runId}).\n\n@${context.repo.owner}`;
+            const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
+            try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
+            catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
+
+      - name: Add weekly activity heartbeat
+        if: steps.monitor.outcome == 'success'
+        shell: bash
+        run: |
+          if [[ "$(date -u +%u-%H)" == "7-05" ]]; then
+            date -u +%F > .monitor/heartbeat
+          fi
+
+      - name: Save changed baseline
+        if: steps.monitor.outcome == 'success'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .monitor/state.json .monitor/heartbeat
+          if ! git diff --cached --quiet; then
+            git commit -m "Update monitored QGenda page state"
+            git push
+          fi
+
+      - name: Create change alert issue
+        if: steps.monitor.outputs.change_count != '0'
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require("fs");
+            const report = JSON.parse(fs.readFileSync(".monitor/report.json", "utf8"));
+            const rows = report.changes.map(change => {
+              const fields = change.changed_fields.join(", ");
+              return `- [${change.url}](${change.url}) — ${fields}`;
+            });
+            const title = `QGenda alert: ${report.change_count} landing page change(s)`;
+            const body = `Checked: ${report.generated_at}\n\n${rows.join("\n")}\n\nThe repository stores hashes and metadata only. Inspect each public page to review the change.\n\n@${context.repo.owner}`;
+            const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
+            try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
+            catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
+
+      - name: Send optional direct email
+        if: steps.monitor.outputs.change_count != '0'
+        env:
+          ALERT_EMAIL: ${{ secrets.ALERT_EMAIL }}
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USERNAME: ${{ secrets.SMTP_USERNAME }}
+          SMTP_PASSWORD: ${{ secrets.SMTP_PASSWORD }}
+          SMTP_FROM: ${{ secrets.SMTP_FROM }}
+          SMTP_SECURITY: ${{ secrets.SMTP_SECURITY }}
+        run: python notify.py --report .monitor/report.json
