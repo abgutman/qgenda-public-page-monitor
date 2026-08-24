@@ -4,6 +4,12 @@ on:
   schedule:
     - cron: "17 * * * *"
   workflow_dispatch:
+    inputs:
+      test_alert:
+        description: "Create a harmless test notification issue"
+        required: false
+        default: false
+        type: boolean
 
 permissions:
   contents: write
@@ -77,6 +83,17 @@ jobs:
             });
             const title = `QGenda alert: ${report.change_count} landing page change(s)`;
             const body = `Checked: ${report.generated_at}\n\n${rows.join("\n")}\n\nThe repository stores hashes and metadata only. Inspect each public page to review the change.\n\n@${context.repo.owner}`;
+            const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
+            try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
+            catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
+
+      - name: Create test alert issue
+        if: github.event_name == 'workflow_dispatch' && inputs.test_alert
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const title = "QGenda monitor test alert";
+            const body = `The hourly monitor's GitHub notification path is working. No landing-page change triggered this test.\n\n@${context.repo.owner}`;
             const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
             try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
             catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
