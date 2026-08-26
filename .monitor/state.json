@@ -1,18 +1,18 @@
 {
   "version": 1,
-  "generated_at": "2026-08-26T14:08:13Z",
+  "generated_at": "2026-08-26T15:53:30Z",
   "records": {
-    "https://app.qgenda.com/landingpage/bourbon": {
-      "url": "https://app.qgenda.com/landingpage/bourbon",
+    "https://app.qgenda.com/landingpage/cc-weston": {
+      "url": "https://app.qgenda.com/landingpage/cc-weston",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/bourbon",
-      "title": "EXCEED LPH BOURBON",
+      "final_url": "https://app.qgenda.com/landingpage/cc-weston",
+      "title": "Cleveland Clinic Weston Landing Page",
       "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 1,
-      "content_hash": "f9cea21d4c9cb110d418dcd4de10b0e6dc5086ae15d684808d18ed56f41ed6aa",
+      "section_count": 3,
+      "link_count": 24,
+      "content_hash": "b9ad168da4ae0ff062fda43f8ca6a779f8d0b9bf2ad647eadb2068a860a022b3",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/auhs": {
       "url": "https://app.qgenda.com/landingpage/auhs",
@@ -24,31 +24,7 @@
       "link_count": 0,
       "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/cc-oncall": {
-      "url": "https://app.qgenda.com/landingpage/cc-oncall",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/cc-oncall",
-      "title": "On-Call Directory",
-      "robots": "noindex, nofollow",
-      "section_count": 6,
-      "link_count": 52,
-      "content_hash": "7b3a3bbf83329528daca5542c5edcf13bdaf54ec5f8a8f4a44edd720e6a797e3",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/azstateradiology": {
-      "url": "https://app.qgenda.com/landingpage/azstateradiology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/azstateradiology",
-      "title": "Arizona State Radiology, P.C.",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 9,
-      "content_hash": "5a05d921a1aa78b0f24c9462e57954d8e32b345cce72219d6bc47409e542a12f",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/bwh": {
       "url": "https://app.qgenda.com/landingpage/bwh",
@@ -60,7 +36,7 @@
       "link_count": 7,
       "content_hash": "07675bfd6564f45d025f448d7786c3a0cfbd3eb8ffac2891a21482570db83aa6",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/6rad": {
       "url": "https://app.qgenda.com/landingpage/6rad",
@@ -72,31 +48,7 @@
       "link_count": 1,
       "content_hash": "576825c9160729f82b9bd751a85a51844d7ff0afd7c095d3c99f865c9b90817f",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/albanyobgyn": {
-      "url": "https://app.qgenda.com/landingpage/albanyobgyn",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/albanyobgyn",
-      "title": "Albany Medical Center - OB/GYN",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 22,
-      "content_hash": "e7c888fd0365bd5a6023be75e50f4c199c02dc0e3afc99ef95413122a55a23cc",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/ahipid": {
-      "url": "https://app.qgenda.com/landingpage/ahipid",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ahipid",
-      "title": "Atrium - Infection Prevention/Infectious Disease",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 4,
-      "content_hash": "23a99b640f678a511ca8a82dde4cc50fd0641bf44a58c92e825df66745ce439f",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/baycarecardiovascularthorac": {
       "url": "https://app.qgenda.com/landingpage/baycarecardiovascularthorac",
@@ -108,7 +60,19 @@
       "link_count": 7,
       "content_hash": "753f87d8a51e6c25aecea29f4c83bc4fb037b7fea4f8a7c409048c75c8a8e805",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
+    },
+    "https://app.qgenda.com/landingpage/bourbon": {
+      "url": "https://app.qgenda.com/landingpage/bourbon",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/bourbon",
+      "title": "EXCEED LPH BOURBON",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 1,
+      "content_hash": "f9cea21d4c9cb110d418dcd4de10b0e6dc5086ae15d684808d18ed56f41ed6aa",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/ausrad": {
       "url": "https://app.qgenda.com/landingpage/ausrad",
@@ -120,31 +84,55 @@
       "link_count": 22,
       "content_hash": "1f38643f8b3318608a9bf628a1b42fbc915272ce9e4f7f99d8134e1d966fd999",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
-    "https://app.qgenda.com/landingpage/cc-weston": {
-      "url": "https://app.qgenda.com/landingpage/cc-weston",
+    "https://app.qgenda.com/landingpage/ahipid": {
+      "url": "https://app.qgenda.com/landingpage/ahipid",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/cc-weston",
-      "title": "Cleveland Clinic Weston Landing Page",
+      "final_url": "https://app.qgenda.com/landingpage/ahipid",
+      "title": "Atrium - Infection Prevention/Infectious Disease",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 4,
+      "content_hash": "23a99b640f678a511ca8a82dde4cc50fd0641bf44a58c92e825df66745ce439f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:07Z"
+    },
+    "https://app.qgenda.com/landingpage/cc-oncall": {
+      "url": "https://app.qgenda.com/landingpage/cc-oncall",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/cc-oncall",
+      "title": "On-Call Directory",
+      "robots": "noindex, nofollow",
+      "section_count": 6,
+      "link_count": 52,
+      "content_hash": "7b3a3bbf83329528daca5542c5edcf13bdaf54ec5f8a8f4a44edd720e6a797e3",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:07Z"
+    },
+    "https://app.qgenda.com/landingpage/albanyobgyn": {
+      "url": "https://app.qgenda.com/landingpage/albanyobgyn",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/albanyobgyn",
+      "title": "Albany Medical Center - OB/GYN",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 22,
+      "content_hash": "e7c888fd0365bd5a6023be75e50f4c199c02dc0e3afc99ef95413122a55a23cc",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:07Z"
+    },
+    "https://app.qgenda.com/landingpage/azstateradiology": {
+      "url": "https://app.qgenda.com/landingpage/azstateradiology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/azstateradiology",
+      "title": "Arizona State Radiology, P.C.",
       "robots": "noindex, nofollow",
       "section_count": 3,
-      "link_count": 24,
-      "content_hash": "b9ad168da4ae0ff062fda43f8ca6a779f8d0b9bf2ad647eadb2068a860a022b3",
+      "link_count": 9,
+      "content_hash": "5a05d921a1aa78b0f24c9462e57954d8e32b345cce72219d6bc47409e542a12f",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/cedarssinai": {
-      "url": "https://app.qgenda.com/landingpage/cedarssinai",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/cedarssinai",
-      "title": "",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/ccf": {
       "url": "https://app.qgenda.com/landingpage/ccf",
@@ -156,55 +144,7 @@
       "link_count": 0,
       "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/colaneph": {
-      "url": "https://app.qgenda.com/landingpage/colaneph",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/colaneph",
-      "title": "Columbia Nephrology Associates, PA - SC",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 2,
-      "content_hash": "a6be2f810a8de8077857c75680ed407a216794810fbd0b88a24be339759230a0",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/centracare-endocrine": {
-      "url": "https://app.qgenda.com/landingpage/centracare-endocrine",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/centracare-endocrine",
-      "title": "CentraCare Health Endocrinology",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 5,
-      "content_hash": "c799f52c990b63f834d283bbbd9c377a5c691341418503a62f61e5e754d34b8a",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/covenanthealthsystem": {
-      "url": "https://app.qgenda.com/landingpage/covenanthealthsystem",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/covenanthealthsystem",
-      "title": "St. Joseph Health - Covenant Health System",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 43,
-      "content_hash": "1a8ef28d3d9533d307b42b1492074dcb1241b51869d2f4b47728c3c23d2af7d8",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/coastalimage": {
-      "url": "https://app.qgenda.com/landingpage/coastalimage",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/coastalimage",
-      "title": "Coastal Imaging LLC",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 5,
-      "content_hash": "d8ba80b378b46eb71c32bbfb47a5a6dd27fe13225ec5bffb9a41fad707eb8b4e",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/chihc": {
       "url": "https://app.qgenda.com/landingpage/chihc",
@@ -216,31 +156,7 @@
       "link_count": 7,
       "content_hash": "af8414889dcd43fe7f2a3629f59918cdfd4c8b09b10f00a701c3bf82209dda7e",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/chwdermatology": {
-      "url": "https://app.qgenda.com/landingpage/chwdermatology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/chwdermatology",
-      "title": "QGenda",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/compwomensoncall": {
-      "url": "https://app.qgenda.com/landingpage/compwomensoncall",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/compwomensoncall",
-      "title": "Comprehensive Women's Health On Call",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 1,
-      "content_hash": "407ba05d9ec4cf69b0e5ccd6870621c34066f32b7813e5e040f826f706e1e274",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/choconcall": {
       "url": "https://app.qgenda.com/landingpage/choconcall",
@@ -252,43 +168,79 @@
       "link_count": 45,
       "content_hash": "b630bc33c0d6902890b1f74a22b4bf11bdb4ebc18a0d196c3db7255ba85de8b6",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/chopneo": {
-      "url": "https://app.qgenda.com/landingpage/chopneo",
+    "https://app.qgenda.com/landingpage/colaneph": {
+      "url": "https://app.qgenda.com/landingpage/colaneph",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/chopneo",
-      "title": "CHOP - Neonatology",
+      "final_url": "https://app.qgenda.com/landingpage/colaneph",
+      "title": "Columbia Nephrology Associates, PA - SC",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 2,
+      "content_hash": "a6be2f810a8de8077857c75680ed407a216794810fbd0b88a24be339759230a0",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/cedarssinai": {
+      "url": "https://app.qgenda.com/landingpage/cedarssinai",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/cedarssinai",
+      "title": "",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/coastalimage": {
+      "url": "https://app.qgenda.com/landingpage/coastalimage",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/coastalimage",
+      "title": "Coastal Imaging LLC",
       "robots": "noindex, nofollow",
       "section_count": 4,
-      "link_count": 26,
-      "content_hash": "3b0b6cc191522003313012e50958bd5d4c22f5afbb6c08d0551f05919f7b0e13",
+      "link_count": 5,
+      "content_hash": "d8ba80b378b46eb71c32bbfb47a5a6dd27fe13225ec5bffb9a41fad707eb8b4e",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/ecep": {
-      "url": "https://app.qgenda.com/landingpage/ecep",
+    "https://app.qgenda.com/landingpage/compwomensoncall": {
+      "url": "https://app.qgenda.com/landingpage/compwomensoncall",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ecep",
-      "title": "ECEP",
+      "final_url": "https://app.qgenda.com/landingpage/compwomensoncall",
+      "title": "Comprehensive Women's Health On Call",
       "robots": "noindex, nofollow",
       "section_count": 1,
-      "link_count": 3,
-      "content_hash": "dc238d764972d616ab0d18a703013ba757feab08365bae69dbb8e61f217c1d93",
+      "link_count": 1,
+      "content_hash": "407ba05d9ec4cf69b0e5ccd6870621c34066f32b7813e5e040f826f706e1e274",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/dhrad": {
-      "url": "https://app.qgenda.com/landingpage/dhrad",
+    "https://app.qgenda.com/landingpage/centracare-endocrine": {
+      "url": "https://app.qgenda.com/landingpage/centracare-endocrine",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/dhrad",
-      "title": "Dartmouth Department of Radiology",
+      "final_url": "https://app.qgenda.com/landingpage/centracare-endocrine",
+      "title": "CentraCare Health Endocrinology",
       "robots": "noindex, nofollow",
       "section_count": 3,
-      "link_count": 16,
-      "content_hash": "5b5f6340004a5f75ff9a46de8a85c0cd61a9d9ce6d0955888f6f3697060e2e42",
+      "link_count": 5,
+      "content_hash": "c799f52c990b63f834d283bbbd9c377a5c691341418503a62f61e5e754d34b8a",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/chwdermatology": {
+      "url": "https://app.qgenda.com/landingpage/chwdermatology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/chwdermatology",
+      "title": "QGenda",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/cpathpublic": {
       "url": "https://app.qgenda.com/landingpage/cpathpublic",
@@ -300,43 +252,19 @@
       "link_count": 6,
       "content_hash": "3af2b9a0d9cc9b41bacddbb4f712c6fe37aea3e385973d0000db5c0c051f458a",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/eastbay": {
-      "url": "https://app.qgenda.com/landingpage/eastbay",
+    "https://app.qgenda.com/landingpage/covenanthealthsystem": {
+      "url": "https://app.qgenda.com/landingpage/covenanthealthsystem",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/eastbay",
-      "title": "University of California, San Francisco - General Pediatrics - East Bay",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 4,
-      "content_hash": "8cb6bdacde5c3183e281081a4594dacb1f385699dbd67cd327541300aee8b534",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/emergencymed": {
-      "url": "https://app.qgenda.com/landingpage/emergencymed",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/emergencymed",
-      "title": "Medical University of South Carolina - Department of Emergency Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 4,
-      "content_hash": "995633e689e887147636a8b1be17e3e4a70a312bd6afa5897eb99ef45b0b5b3e",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/dhmgaz_west": {
-      "url": "https://app.qgenda.com/landingpage/dhmgaz_west",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/dhmgaz_west",
-      "title": "Dignity Health Medical Group - Arizona - West Valley",
+      "final_url": "https://app.qgenda.com/landingpage/covenanthealthsystem",
+      "title": "St. Joseph Health - Covenant Health System",
       "robots": "noindex, nofollow",
       "section_count": 3,
-      "link_count": 3,
-      "content_hash": "10ad209c71f177fede4d1d68de3bbedb83f68f7a094d2811616b9dc2fd15b6f2",
+      "link_count": 43,
+      "content_hash": "1a8ef28d3d9533d307b42b1492074dcb1241b51869d2f4b47728c3c23d2af7d8",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/gwmfa": {
       "url": "https://app.qgenda.com/landingpage/gwmfa",
@@ -348,19 +276,19 @@
       "link_count": 21,
       "content_hash": "0792ba0a2c7a69b28ebbcf3c1e6e77d3e07612ac611f2e3b3ab119e689c2838b",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/gwmfaendo": {
-      "url": "https://app.qgenda.com/landingpage/gwmfaendo",
+    "https://app.qgenda.com/landingpage/eastbay": {
+      "url": "https://app.qgenda.com/landingpage/eastbay",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/gwmfaendo",
-      "title": "George Washington Medical Faculty Associates - Endocrinology",
+      "final_url": "https://app.qgenda.com/landingpage/eastbay",
+      "title": "University of California, San Francisco - General Pediatrics - East Bay",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 5,
-      "content_hash": "491f0c195a64f80b2f509672e0153caebf51b1653098e6f452047c2170e9f1a6",
+      "section_count": 1,
+      "link_count": 4,
+      "content_hash": "8cb6bdacde5c3183e281081a4594dacb1f385699dbd67cd327541300aee8b534",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/gka": {
       "url": "https://app.qgenda.com/landingpage/gka",
@@ -372,19 +300,19 @@
       "link_count": 15,
       "content_hash": "3f7a0f369f4ba57e87655a8527a0913f1c9d63108100437bdc512ac8b8563b24",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/gwmfageri": {
-      "url": "https://app.qgenda.com/landingpage/gwmfageri",
+    "https://app.qgenda.com/landingpage/dhmgaz_west": {
+      "url": "https://app.qgenda.com/landingpage/dhmgaz_west",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/gwmfageri",
-      "title": "George Washington Medical Faculty Associates - Geriatrics",
+      "final_url": "https://app.qgenda.com/landingpage/dhmgaz_west",
+      "title": "Dignity Health Medical Group - Arizona - West Valley",
       "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 9,
-      "content_hash": "08b3f077d68fb4393c6571e28c9c69f5531528f2323b5d877d3f6c429284b55b",
+      "section_count": 3,
+      "link_count": 3,
+      "content_hash": "10ad209c71f177fede4d1d68de3bbedb83f68f7a094d2811616b9dc2fd15b6f2",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/each": {
       "url": "https://app.qgenda.com/landingpage/each",
@@ -396,19 +324,55 @@
       "link_count": 7,
       "content_hash": "087e43081c7c4347fc6cab5f1259758129c419ffef1b37712290d1c58a986c05",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/hmcchcall": {
-      "url": "https://app.qgenda.com/landingpage/hmcchcall",
+    "https://app.qgenda.com/landingpage/dhrad": {
+      "url": "https://app.qgenda.com/landingpage/dhrad",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/hmcchcall",
-      "title": "HMCCH On-Call",
+      "final_url": "https://app.qgenda.com/landingpage/dhrad",
+      "title": "Dartmouth Department of Radiology",
       "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 4,
-      "content_hash": "1bac715061ca71b290eb571bb35d996104c0bcd612b47fcfcbbea53db1e77ec5",
+      "section_count": 3,
+      "link_count": 16,
+      "content_hash": "5b5f6340004a5f75ff9a46de8a85c0cd61a9d9ce6d0955888f6f3697060e2e42",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/gwmfaendo": {
+      "url": "https://app.qgenda.com/landingpage/gwmfaendo",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/gwmfaendo",
+      "title": "George Washington Medical Faculty Associates - Endocrinology",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 5,
+      "content_hash": "491f0c195a64f80b2f509672e0153caebf51b1653098e6f452047c2170e9f1a6",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/ecep": {
+      "url": "https://app.qgenda.com/landingpage/ecep",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/ecep",
+      "title": "ECEP",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 3,
+      "content_hash": "dc238d764972d616ab0d18a703013ba757feab08365bae69dbb8e61f217c1d93",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/chopneo": {
+      "url": "https://app.qgenda.com/landingpage/chopneo",
+      "status": 200,
+      "final_url": "https://login.microsoftonline.com/a6112416-07b0-41a5-9bb1-d146b575c975/saml2?SAMLRequest=hJLNjtsgFIX3I807ILrGgOOfGMUZpY2qRpq20STtojuMcQbJgMcXT9K3r%2BwkHc2i6QoJztE9fPcsHk62Ra%2B6B%2BNdiXnEMNJO%2Bdq4Q4mH0JA5flje3y1A2rYTqyE8uyf9MmgI6GRbB2J8KPHQO%2BElGBBOWg0iKLFbfX0UccSEBNB9MN7hi8XWtw1WB1nLIK%2F6Gkr8HEInKD0ej9FxFvn%2BQGPGGGUFPdm2BnP4gNFmXWLJuGQzrTKSJxUjSaEYKZoqIUw3TV7wNKslw2gDMOiNgyBdKHHM4oywOYmzPU9FOhNsHqWzJE%2F5%2FBdGP6904pHOZ98rPXEocSNb0BitNQTj5PjFc1AQlLb%2BYFxkjeo9%2BCZ41xqnI%2BUtlRnnccIzwvIxIZcpKaqKk5onWZXmqSrylI5YY4y2vQ9e%2BfajcZeV3OBWnUUgvuz3W7L9vttjtLrC%2F%2BQdDFb3O92%2FGqV%2FPD2%2BZZVdF70ctKvlFBDAn%2BfTzkO4bmFqwO0A3SUtXt7fITR1Rkyk%2B%2BX%2FRi2m46r%2Ba%2B%2FEN2n1Zr31rVG%2FR%2FhWhn%2BH4BGfbkxNmkkqBgedVqYxusaIjk2eBr2v8vIPAAAA%2F%2F8DAA%3D%3D&RelayState=login-01a03ec6-74b0-49c0-9fb4-0eff79156da0&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=CTZrm0CI5AOsuL6jvwU1dmdgn%2B3kgs0MjeVbZMwyVpAlZUwaKCinSCULqaHQHI0zOI5sFw2mKuwCSMhTMmUpBExWsH%2FoaCc5h0Gw2Ykm3rNFtiF9lyca6zP121s4D7%2FeB69HiqgpEN9%2BD3EtG2KRge573%2Fdppx0OXgNMrHJcAlYj%2FSdOCaYe9xoWiCMMNd9iTO6mZy9Mn0RRvt783LCLnNV40hXyjJfa%2BmLKNCFJcjl2upBmzvTvQ4OOf5DnyRF6V2ss9LGQdDMMCO6XYGJtodaVIe7%2F8VrM6yaJCk5k%2BU1HxFC%2B76jc2OFG1OkiufqCYUGszV1o%2FzyxkxgZ12Jfpg%3D%3D",
+      "title": "Sign in to your account",
+      "robots": "none",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "7c77764f7144e9e9811023dc724b0e26376a37588c6415d6e185fc5b4287693a",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/hg": {
       "url": "https://app.qgenda.com/landingpage/hg",
@@ -420,55 +384,7 @@
       "link_count": 16,
       "content_hash": "b4150d33fe39ffbf0656bf2e085e6c1aefb56ce0091c266aef8edae795d30dd8",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/hmhcall": {
-      "url": "https://app.qgenda.com/landingpage/hmhcall",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/hmhcall",
-      "title": "HMH On-Call",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 57,
-      "content_hash": "620a98842b0be28e6a4488e5e03a38d080683f937f667004e2f18171e0a2bbe4",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/hmclcall": {
-      "url": "https://app.qgenda.com/landingpage/hmclcall",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/hmclcall",
-      "title": "HMCL On-Call",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 18,
-      "content_hash": "72fd52a6851789b9d3f7dfc7bde02c26838781c9150c75b9ca00554ab3cc2187",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/iemp": {
-      "url": "https://app.qgenda.com/landingpage/iemp",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/iemp",
-      "title": "Integrated Care Physicians",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 5,
-      "content_hash": "4b9f21ea0fe6b463639fa1eb29d90a1f90198c7ae899a950d97004323e96f8d4",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/inspira": {
-      "url": "https://app.qgenda.com/landingpage/inspira",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/inspira",
-      "title": "Inspira MD and CRNA",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 1,
-      "content_hash": "52c71025349c06b8444815842e482431a18b4a7cdda5951e3f379752ba6becf4",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/hmcall": {
       "url": "https://app.qgenda.com/landingpage/hmcall",
@@ -480,43 +396,55 @@
       "link_count": 12,
       "content_hash": "d806c46034e17928fc9bd901160f9d41af8fe3e2af31c756a3fcfe456ff63b56",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/inpatientspecialistsgroup": {
-      "url": "https://app.qgenda.com/landingpage/inpatientspecialistsgroup",
+    "https://app.qgenda.com/landingpage/hmcchcall": {
+      "url": "https://app.qgenda.com/landingpage/hmcchcall",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/inpatientspecialistsgroup",
-      "title": "Inpatient Specialists Group",
+      "final_url": "https://app.qgenda.com/landingpage/hmcchcall",
+      "title": "HMCCH On-Call",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 12,
-      "content_hash": "c41bd0ab61dfff530f9110493c7a9c0d9abd56111e4e3d62e844177b666b91cd",
+      "section_count": 2,
+      "link_count": 4,
+      "content_hash": "1bac715061ca71b290eb571bb35d996104c0bcd612b47fcfcbbea53db1e77ec5",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/hmwcall": {
-      "url": "https://app.qgenda.com/landingpage/hmwcall",
+    "https://app.qgenda.com/landingpage/hmhcall": {
+      "url": "https://app.qgenda.com/landingpage/hmhcall",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/hmwcall",
-      "title": "HMW On-Call",
+      "final_url": "https://app.qgenda.com/landingpage/hmhcall",
+      "title": "HMH On-Call",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 29,
-      "content_hash": "034d65864600328a78b43231c1203f1aca9429b69be9ac3fe08303e44832349c",
+      "section_count": 4,
+      "link_count": 57,
+      "content_hash": "620a98842b0be28e6a4488e5e03a38d080683f937f667004e2f18171e0a2bbe4",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
-    "https://app.qgenda.com/landingpage/hvra": {
-      "url": "https://app.qgenda.com/landingpage/hvra",
+    "https://app.qgenda.com/landingpage/emergencymed": {
+      "url": "https://app.qgenda.com/landingpage/emergencymed",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/hvra",
-      "title": "HVRA",
+      "final_url": "https://app.qgenda.com/landingpage/emergencymed",
+      "title": "Medical University of South Carolina - Department of Emergency Medicine",
       "robots": "noindex, nofollow",
-      "section_count": 3,
+      "section_count": 1,
+      "link_count": 4,
+      "content_hash": "995633e689e887147636a8b1be17e3e4a70a312bd6afa5897eb99ef45b0b5b3e",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/gwmfageri": {
+      "url": "https://app.qgenda.com/landingpage/gwmfageri",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/gwmfageri",
+      "title": "George Washington Medical Faculty Associates - Geriatrics",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
       "link_count": 9,
-      "content_hash": "dc4d111fdfd2f9a56263763b3026830aef986a550ff84b76f653e44bc540ffa6",
+      "content_hash": "08b3f077d68fb4393c6571e28c9c69f5531528f2323b5d877d3f6c429284b55b",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/integriscardio": {
       "url": "https://app.qgenda.com/landingpage/integriscardio",
@@ -528,7 +456,79 @@
       "link_count": 49,
       "content_hash": "8a270d119f0ff04dd32001fa8efef7517e1e4876712e7b8a2ef84a50202fc5ed",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/hmclcall": {
+      "url": "https://app.qgenda.com/landingpage/hmclcall",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/hmclcall",
+      "title": "HMCL On-Call",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 18,
+      "content_hash": "72fd52a6851789b9d3f7dfc7bde02c26838781c9150c75b9ca00554ab3cc2187",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/hmwcall": {
+      "url": "https://app.qgenda.com/landingpage/hmwcall",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/hmwcall",
+      "title": "HMW On-Call",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 29,
+      "content_hash": "034d65864600328a78b43231c1203f1aca9429b69be9ac3fe08303e44832349c",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/inspira": {
+      "url": "https://app.qgenda.com/landingpage/inspira",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/inspira",
+      "title": "Inspira MD and CRNA",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 1,
+      "content_hash": "52c71025349c06b8444815842e482431a18b4a7cdda5951e3f379752ba6becf4",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/hvra": {
+      "url": "https://app.qgenda.com/landingpage/hvra",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/hvra",
+      "title": "HVRA",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 9,
+      "content_hash": "dc4d111fdfd2f9a56263763b3026830aef986a550ff84b76f653e44bc540ffa6",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/iemp": {
+      "url": "https://app.qgenda.com/landingpage/iemp",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/iemp",
+      "title": "Integrated Care Physicians",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 5,
+      "content_hash": "4b9f21ea0fe6b463639fa1eb29d90a1f90198c7ae899a950d97004323e96f8d4",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/inpatientspecialistsgroup": {
+      "url": "https://app.qgenda.com/landingpage/inpatientspecialistsgroup",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/inpatientspecialistsgroup",
+      "title": "Inpatient Specialists Group",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 12,
+      "content_hash": "c41bd0ab61dfff530f9110493c7a9c0d9abd56111e4e3d62e844177b666b91cd",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/ach": {
       "url": "https://app.qgenda.com/landingpage/ach",
@@ -540,55 +540,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:46Z"
-    },
-    "https://app.qgenda.com/landingpage/jhcardiology": {
-      "url": "https://app.qgenda.com/landingpage/jhcardiology",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmaccmjhhbv": {
-      "url": "https://app.qgenda.com/landingpage/jhmaccmjhhbv",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhhmissurg": {
-      "url": "https://app.qgenda.com/landingpage/jhhmissurg",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhcp": {
-      "url": "https://app.qgenda.com/landingpage/jhcp",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:07Z"
     },
     "https://app.qgenda.com/landingpage/hcghoncall": {
       "url": "https://app.qgenda.com/landingpage/hcghoncall",
@@ -600,67 +552,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmaccm": {
-      "url": "https://app.qgenda.com/landingpage/jhmaccm",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhh": {
-      "url": "https://app.qgenda.com/landingpage/jhh",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmabtx": {
-      "url": "https://app.qgenda.com/landingpage/jhmabtx",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhhres": {
-      "url": "https://app.qgenda.com/landingpage/jhhres",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
-    },
-    "https://app.qgenda.com/landingpage/jhm": {
-      "url": "https://app.qgenda.com/landingpage/jhm",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/jhbmc": {
       "url": "https://app.qgenda.com/landingpage/jhbmc",
@@ -672,7 +564,115 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:47Z"
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhhmissurg": {
+      "url": "https://app.qgenda.com/landingpage/jhhmissurg",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhh": {
+      "url": "https://app.qgenda.com/landingpage/jhh",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhcardiology": {
+      "url": "https://app.qgenda.com/landingpage/jhcardiology",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmaccm": {
+      "url": "https://app.qgenda.com/landingpage/jhmaccm",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhcp": {
+      "url": "https://app.qgenda.com/landingpage/jhcp",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmaccmjhhbv": {
+      "url": "https://app.qgenda.com/landingpage/jhmaccmjhhbv",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhm": {
+      "url": "https://app.qgenda.com/landingpage/jhm",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmabtx": {
+      "url": "https://app.qgenda.com/landingpage/jhmabtx",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
+    },
+    "https://app.qgenda.com/landingpage/jhhres": {
+      "url": "https://app.qgenda.com/landingpage/jhhres",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:08Z"
     },
     "https://app.qgenda.com/landingpage/jhmaccmpicupcicu": {
       "url": "https://app.qgenda.com/landingpage/jhmaccmpicupcicu",
@@ -684,91 +684,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:51Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmacts": {
-      "url": "https://app.qgenda.com/landingpage/jhmacts",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:52Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmendo": {
-      "url": "https://app.qgenda.com/landingpage/jhmendo",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmdom": {
-      "url": "https://app.qgenda.com/landingpage/jhmdom",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmgim": {
-      "url": "https://app.qgenda.com/landingpage/jhmgim",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmed": {
-      "url": "https://app.qgenda.com/landingpage/jhmed",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmhem": {
-      "url": "https://app.qgenda.com/landingpage/jhmhem",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmam": {
-      "url": "https://app.qgenda.com/landingpage/jhmam",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
+      "checked_at": "2026-08-26T15:53:12Z"
     },
     "https://app.qgenda.com/landingpage/jhmaccmraap": {
       "url": "https://app.qgenda.com/landingpage/jhmaccmraap",
@@ -780,19 +696,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:52Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmcardsurg": {
-      "url": "https://app.qgenda.com/landingpage/jhmcardsurg",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
+      "checked_at": "2026-08-26T15:53:13Z"
     },
     "https://app.qgenda.com/landingpage/jhmai": {
       "url": "https://app.qgenda.com/landingpage/jhmai",
@@ -804,7 +708,103 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmed": {
+      "url": "https://app.qgenda.com/landingpage/jhmed",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmendo": {
+      "url": "https://app.qgenda.com/landingpage/jhmendo",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmam": {
+      "url": "https://app.qgenda.com/landingpage/jhmam",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmhem": {
+      "url": "https://app.qgenda.com/landingpage/jhmhem",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmcardsurg": {
+      "url": "https://app.qgenda.com/landingpage/jhmcardsurg",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmgim": {
+      "url": "https://app.qgenda.com/landingpage/jhmgim",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmdom": {
+      "url": "https://app.qgenda.com/landingpage/jhmdom",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmacts": {
+      "url": "https://app.qgenda.com/landingpage/jhmacts",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:13Z"
     },
     "https://app.qgenda.com/landingpage/jhmderm": {
       "url": "https://app.qgenda.com/landingpage/jhmderm",
@@ -816,7 +816,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:53Z"
+      "checked_at": "2026-08-26T15:53:13Z"
     },
     "https://app.qgenda.com/landingpage/jhmhosp": {
       "url": "https://app.qgenda.com/landingpage/jhmhosp",
@@ -828,91 +828,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:56Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmnro": {
-      "url": "https://app.qgenda.com/landingpage/jhmnro",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmneph": {
-      "url": "https://app.qgenda.com/landingpage/jhmneph",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmpedheme": {
-      "url": "https://app.qgenda.com/landingpage/jhmpedheme",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmpathology": {
-      "url": "https://app.qgenda.com/landingpage/jhmpathology",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmpcar": {
-      "url": "https://app.qgenda.com/landingpage/jhmpcar",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmpedonc": {
-      "url": "https://app.qgenda.com/landingpage/jhmpedonc",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmpc": {
-      "url": "https://app.qgenda.com/landingpage/jhmpc",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
+      "checked_at": "2026-08-26T15:53:16Z"
     },
     "https://app.qgenda.com/landingpage/jhmid": {
       "url": "https://app.qgenda.com/landingpage/jhmid",
@@ -924,10 +840,10 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
+      "checked_at": "2026-08-26T15:53:17Z"
     },
-    "https://app.qgenda.com/landingpage/jhmonc": {
-      "url": "https://app.qgenda.com/landingpage/jhmonc",
+    "https://app.qgenda.com/landingpage/jhmnro": {
+      "url": "https://app.qgenda.com/landingpage/jhmnro",
       "status": 500,
       "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
       "title": "",
@@ -936,10 +852,10 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
+      "checked_at": "2026-08-26T15:53:17Z"
     },
-    "https://app.qgenda.com/landingpage/jhmoto": {
-      "url": "https://app.qgenda.com/landingpage/jhmoto",
+    "https://app.qgenda.com/landingpage/jhmneph": {
+      "url": "https://app.qgenda.com/landingpage/jhmneph",
       "status": 500,
       "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
       "title": "",
@@ -948,7 +864,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
+      "checked_at": "2026-08-26T15:53:17Z"
     },
     "https://app.qgenda.com/landingpage/jhmpediatrics": {
       "url": "https://app.qgenda.com/landingpage/jhmpediatrics",
@@ -960,7 +876,91 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:07:58Z"
+      "checked_at": "2026-08-26T15:53:18Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmoto": {
+      "url": "https://app.qgenda.com/landingpage/jhmoto",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:17Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmpedheme": {
+      "url": "https://app.qgenda.com/landingpage/jhmpedheme",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:18Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmpc": {
+      "url": "https://app.qgenda.com/landingpage/jhmpc",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:18Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmpathology": {
+      "url": "https://app.qgenda.com/landingpage/jhmpathology",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:18Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmpcar": {
+      "url": "https://app.qgenda.com/landingpage/jhmpcar",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:18Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmonc": {
+      "url": "https://app.qgenda.com/landingpage/jhmonc",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:17Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmpedonc": {
+      "url": "https://app.qgenda.com/landingpage/jhmpedonc",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:18Z"
     },
     "https://app.qgenda.com/landingpage/jhmpedres": {
       "url": "https://app.qgenda.com/landingpage/jhmpedres",
@@ -972,7 +972,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:01Z"
+      "checked_at": "2026-08-26T15:53:20Z"
     },
     "https://app.qgenda.com/landingpage/jhmplastics": {
       "url": "https://app.qgenda.com/landingpage/jhmplastics",
@@ -984,7 +984,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
+      "checked_at": "2026-08-26T15:53:21Z"
     },
     "https://app.qgenda.com/landingpage/jhmpmr": {
       "url": "https://app.qgenda.com/landingpage/jhmpmr",
@@ -996,43 +996,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmsurgcrs": {
-      "url": "https://app.qgenda.com/landingpage/jhmsurgcrs",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmsurghpb": {
-      "url": "https://app.qgenda.com/landingpage/jhmsurghpb",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmsurgery": {
-      "url": "https://app.qgenda.com/landingpage/jhmsurgery",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
+      "checked_at": "2026-08-26T15:53:21Z"
     },
     "https://app.qgenda.com/landingpage/jhmpulm": {
       "url": "https://app.qgenda.com/landingpage/jhmpulm",
@@ -1044,19 +1008,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmthoracicsurg": {
-      "url": "https://app.qgenda.com/landingpage/jhmthoracicsurg",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
+      "checked_at": "2026-08-26T15:53:21Z"
     },
     "https://app.qgenda.com/landingpage/jhmradonc": {
       "url": "https://app.qgenda.com/landingpage/jhmradonc",
@@ -1068,55 +1020,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmsurgonc": {
-      "url": "https://app.qgenda.com/landingpage/jhmsurgonc",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/jhmurology": {
-      "url": "https://app.qgenda.com/landingpage/jhmurology",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
-    },
-    "https://app.qgenda.com/landingpage/kmsqmc": {
-      "url": "https://app.qgenda.com/landingpage/kmsqmc",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/kmsqmc",
-      "title": "Kapi'olani Medical Specialists – Division of Neonatology [QMC]",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 5,
-      "content_hash": "3339d762f260911d1cfc3da1470f6b47ea4f98bf3f7f2e1f200b42b8c357d7ba",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/lenoxhillrad": {
-      "url": "https://app.qgenda.com/landingpage/lenoxhillrad",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/lenoxhillrad",
-      "title": "Lenox Hill Radiology - RadNet",
-      "robots": "noindex, nofollow",
-      "section_count": 6,
-      "link_count": 30,
-      "content_hash": "0c3341eb4c01eff757116604b20cf31ecf54769b949a5565b0c85db73879de33",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:21Z"
     },
     "https://app.qgenda.com/landingpage/jhmrh": {
       "url": "https://app.qgenda.com/landingpage/jhmrh",
@@ -1128,19 +1032,79 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:03Z"
+      "checked_at": "2026-08-26T15:53:21Z"
     },
-    "https://app.qgenda.com/landingpage/lijnh": {
-      "url": "https://app.qgenda.com/landingpage/lijnh",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/lijnh",
+    "https://app.qgenda.com/landingpage/jhmsurgery": {
+      "url": "https://app.qgenda.com/landingpage/jhmsurgery",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
       "title": "",
-      "robots": "noindex, nofollow",
+      "robots": "",
       "section_count": 0,
       "link_count": 0,
-      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:21Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmthoracicsurg": {
+      "url": "https://app.qgenda.com/landingpage/jhmthoracicsurg",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:22Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmsurgcrs": {
+      "url": "https://app.qgenda.com/landingpage/jhmsurgcrs",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:21Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmsurghpb": {
+      "url": "https://app.qgenda.com/landingpage/jhmsurghpb",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:21Z"
+    },
+    "https://app.qgenda.com/landingpage/jhmurology": {
+      "url": "https://app.qgenda.com/landingpage/jhmurology",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:22Z"
+    },
+    "https://app.qgenda.com/landingpage/lenoxhillrad": {
+      "url": "https://app.qgenda.com/landingpage/lenoxhillrad",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/lenoxhillrad",
+      "title": "Lenox Hill Radiology - RadNet",
+      "robots": "noindex, nofollow",
+      "section_count": 6,
+      "link_count": 30,
+      "content_hash": "0c3341eb4c01eff757116604b20cf31ecf54769b949a5565b0c85db73879de33",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/kmc": {
       "url": "https://app.qgenda.com/landingpage/kmc",
@@ -1152,7 +1116,19 @@
       "link_count": 27,
       "content_hash": "25066ec10492d4d7d5ba9cf1afad0e5c82ed7b9e4792b94acbe1578588ccff3b",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
+    },
+    "https://app.qgenda.com/landingpage/lijnh": {
+      "url": "https://app.qgenda.com/landingpage/lijnh",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/lijnh",
+      "title": "",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/maatoh": {
       "url": "https://app.qgenda.com/landingpage/maatoh",
@@ -1164,19 +1140,19 @@
       "link_count": 1,
       "content_hash": "6e44692ec1fd1f09139063b21fa802167a4f24b2f6f1e8342d470108c87758e9",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
-    "https://app.qgenda.com/landingpage/mainehealthresidents": {
-      "url": "https://app.qgenda.com/landingpage/mainehealthresidents",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mainehealthresidents",
-      "title": "MaineHealth - Residents",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 10,
-      "content_hash": "8d1c1462d631035a5714877b1bb7def7b9d383f3cd7d65893b60122c008934d0",
+    "https://app.qgenda.com/landingpage/jhmsurgonc": {
+      "url": "https://app.qgenda.com/landingpage/jhmsurgonc",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:22Z"
     },
     "https://app.qgenda.com/landingpage/madrad": {
       "url": "https://app.qgenda.com/landingpage/madrad",
@@ -1188,7 +1164,19 @@
       "link_count": 11,
       "content_hash": "46c2833dde20121669c25974b2a9b03d735320a243cc98bc3dc0909a29c91e79",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
+    },
+    "https://app.qgenda.com/landingpage/mainehealthresidents": {
+      "url": "https://app.qgenda.com/landingpage/mainehealthresidents",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/mainehealthresidents",
+      "title": "MaineHealth - Residents",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 10,
+      "content_hash": "8d1c1462d631035a5714877b1bb7def7b9d383f3cd7d65893b60122c008934d0",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/marywashingtonhm": {
       "url": "https://app.qgenda.com/landingpage/marywashingtonhm",
@@ -1200,19 +1188,7 @@
       "link_count": 6,
       "content_hash": "6617534b96f35e6f217058a873763995f88303d8142dea4ddb25c982a794cd25",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/mcw-peds-neo": {
-      "url": "https://app.qgenda.com/landingpage/mcw-peds-neo",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mcw-peds-neo",
-      "title": "Medical College of Wisconsin - Pediatrics - Neonatology",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 8,
-      "content_hash": "ad4224a93f8f8cde80eddfffadbe81ae17200061a1e1bde88d800db723ea199a",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/mhealthhot": {
       "url": "https://app.qgenda.com/landingpage/mhealthhot",
@@ -1224,19 +1200,19 @@
       "link_count": 27,
       "content_hash": "795b923230f9a1428e2a121f69e63d9ee45f17b4057b7dee8384b992ac02ae4f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
-    "https://app.qgenda.com/landingpage/mhealthid": {
-      "url": "https://app.qgenda.com/landingpage/mhealthid",
+    "https://app.qgenda.com/landingpage/mcw-peds-neo": {
+      "url": "https://app.qgenda.com/landingpage/mcw-peds-neo",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mhealthid",
-      "title": "M Health - Infectious Disease",
+      "final_url": "https://app.qgenda.com/landingpage/mcw-peds-neo",
+      "title": "Medical College of Wisconsin - Pediatrics - Neonatology",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 18,
-      "content_hash": "8d842bfdaddd7d653dadb56d07c650823b443b0e1d708f5850b3aa148f81e339",
+      "section_count": 1,
+      "link_count": 8,
+      "content_hash": "ad4224a93f8f8cde80eddfffadbe81ae17200061a1e1bde88d800db723ea199a",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/mhealthneurology": {
       "url": "https://app.qgenda.com/landingpage/mhealthneurology",
@@ -1248,19 +1224,31 @@
       "link_count": 47,
       "content_hash": "6ef39e0f3a06d3cf07e61d005eb91a183270a2589c089a0056cba040249a2f55",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
-    "https://app.qgenda.com/landingpage/mhealthoncology": {
-      "url": "https://app.qgenda.com/landingpage/mhealthoncology",
+    "https://app.qgenda.com/landingpage/mhealthid": {
+      "url": "https://app.qgenda.com/landingpage/mhealthid",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mhealthoncology",
-      "title": "M Health - Oncology",
+      "final_url": "https://app.qgenda.com/landingpage/mhealthid",
+      "title": "M Health - Infectious Disease",
       "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 23,
-      "content_hash": "03c4c730f84455509a12862bacb2b6a91d8e0211643cd16de87ae2e51443ba2d",
+      "section_count": 3,
+      "link_count": 18,
+      "content_hash": "8d842bfdaddd7d653dadb56d07c650823b443b0e1d708f5850b3aa148f81e339",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
+    },
+    "https://app.qgenda.com/landingpage/kmsqmc": {
+      "url": "https://app.qgenda.com/landingpage/kmsqmc",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/kmsqmc",
+      "title": "Kapi'olani Medical Specialists – Division of Neonatology [QMC]",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 5,
+      "content_hash": "3339d762f260911d1cfc3da1470f6b47ea4f98bf3f7f2e1f200b42b8c357d7ba",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/mhealthpalliative": {
       "url": "https://app.qgenda.com/landingpage/mhealthpalliative",
@@ -1272,43 +1260,19 @@
       "link_count": 11,
       "content_hash": "78dff0c40ec90d15620bd3080dd995d740128558cb4207abeffe11877ab53818",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/mountsinaiabdominal": {
-      "url": "https://app.qgenda.com/landingpage/mountsinaiabdominal",
+    "https://app.qgenda.com/landingpage/mhealthoncology": {
+      "url": "https://app.qgenda.com/landingpage/mhealthoncology",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mountsinaiabdominal",
-      "title": "Mount Sinai Radiology - Abdominal East",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 4,
-      "content_hash": "6b3580d24fda74193e8f5d6e78611c5715ab5e9398546f98475e244116fb9ff4",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/mhi": {
-      "url": "https://app.qgenda.com/landingpage/mhi",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mhi",
-      "title": "Mercy Health - The Heart Institute",
-      "robots": "noindex, nofollow",
-      "section_count": 6,
-      "link_count": 14,
-      "content_hash": "024874ee6b5a53048cea67f969f4c99a80bf4f85bff48beaf376523d4bba482a",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/mountsinai": {
-      "url": "https://app.qgenda.com/landingpage/mountsinai",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mountsinai",
-      "title": "Mount Sinai Radiology - Neuro",
+      "final_url": "https://app.qgenda.com/landingpage/mhealthoncology",
+      "title": "M Health - Oncology",
       "robots": "noindex, nofollow",
       "section_count": 4,
-      "link_count": 7,
-      "content_hash": "7d91d20ebebcd71ad6d596f2216d898f550ded9c621c2fcb7a0b63537661e8f6",
+      "link_count": 23,
+      "content_hash": "03c4c730f84455509a12862bacb2b6a91d8e0211643cd16de87ae2e51443ba2d",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/mountsinaibislr": {
       "url": "https://app.qgenda.com/landingpage/mountsinaibislr",
@@ -1320,43 +1284,31 @@
       "link_count": 13,
       "content_hash": "9e61b235f9280c4da0afd64a61adc977d202f4d6be3cf08fa5c46d4b17388e6d",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/mountsinainuclear": {
-      "url": "https://app.qgenda.com/landingpage/mountsinainuclear",
+    "https://app.qgenda.com/landingpage/mountsinai": {
+      "url": "https://app.qgenda.com/landingpage/mountsinai",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mountsinainuclear",
-      "title": "Mount Sinai Radiology - Nuclear",
+      "final_url": "https://app.qgenda.com/landingpage/mountsinai",
+      "title": "Mount Sinai Radiology - Neuro",
       "robots": "noindex, nofollow",
       "section_count": 4,
-      "link_count": 9,
-      "content_hash": "9c27a2fbc61eac08a2dee310d03076ff1212cc698fff6c8ccdc92111019d3fa0",
+      "link_count": 7,
+      "content_hash": "7d91d20ebebcd71ad6d596f2216d898f550ded9c621c2fcb7a0b63537661e8f6",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/mountsinaipeds": {
-      "url": "https://app.qgenda.com/landingpage/mountsinaipeds",
+    "https://app.qgenda.com/landingpage/mountsinaiabdominal": {
+      "url": "https://app.qgenda.com/landingpage/mountsinaiabdominal",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mountsinaipeds",
-      "title": "Mount Sinai Radiology - Peds",
+      "final_url": "https://app.qgenda.com/landingpage/mountsinaiabdominal",
+      "title": "Mount Sinai Radiology - Abdominal East",
       "robots": "noindex, nofollow",
       "section_count": 2,
       "link_count": 4,
-      "content_hash": "daaf476853be57df213386d3d38121f529c5dda8c6e4f5760176d2ab3e2a05a6",
+      "content_hash": "6b3580d24fda74193e8f5d6e78611c5715ab5e9398546f98475e244116fb9ff4",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/mpp": {
-      "url": "https://app.qgenda.com/landingpage/mpp",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/mpp",
-      "title": "MPP",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 1,
-      "content_hash": "d82b5fee786a71eba688a5285ddf9c9d75c1e42e830202304c7630d4402106db",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/mountsinairadiology": {
       "url": "https://app.qgenda.com/landingpage/mountsinairadiology",
@@ -1368,7 +1320,43 @@
       "link_count": 6,
       "content_hash": "a9d1dc41b4b969618cfafbdb15bd4e99f46a3801d190eddda76fed6dd08c8f55",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/mountsinainuclear": {
+      "url": "https://app.qgenda.com/landingpage/mountsinainuclear",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/mountsinainuclear",
+      "title": "Mount Sinai Radiology - Nuclear",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 9,
+      "content_hash": "9c27a2fbc61eac08a2dee310d03076ff1212cc698fff6c8ccdc92111019d3fa0",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/mhi": {
+      "url": "https://app.qgenda.com/landingpage/mhi",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/mhi",
+      "title": "Mercy Health - The Heart Institute",
+      "robots": "noindex, nofollow",
+      "section_count": 6,
+      "link_count": 14,
+      "content_hash": "024874ee6b5a53048cea67f969f4c99a80bf4f85bff48beaf376523d4bba482a",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/mountsinaipeds": {
+      "url": "https://app.qgenda.com/landingpage/mountsinaipeds",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/mountsinaipeds",
+      "title": "Mount Sinai Radiology - Peds",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 4,
+      "content_hash": "daaf476853be57df213386d3d38121f529c5dda8c6e4f5760176d2ab3e2a05a6",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/mtsinaibreastimaging": {
       "url": "https://app.qgenda.com/landingpage/mtsinaibreastimaging",
@@ -1380,19 +1368,19 @@
       "link_count": 3,
       "content_hash": "6cc592d9a585c18dc37a5d17f44be79d8602c7ed34f19be7a4667b308b74bf60",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/musccard": {
-      "url": "https://app.qgenda.com/landingpage/musccard",
+    "https://app.qgenda.com/landingpage/mpp": {
+      "url": "https://app.qgenda.com/landingpage/mpp",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/musccard",
-      "title": "Medical University of South Carolina - Department of Adult Cardiology",
+      "final_url": "https://app.qgenda.com/landingpage/mpp",
+      "title": "MPP",
       "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 22,
-      "content_hash": "a016b8778ce5f2cf54fe16e313d8f79e53e8cb38615fd199b9706ab799f7c379",
+      "section_count": 1,
+      "link_count": 1,
+      "content_hash": "d82b5fee786a71eba688a5285ddf9c9d75c1e42e830202304c7630d4402106db",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/muscneuro": {
       "url": "https://app.qgenda.com/landingpage/muscneuro",
@@ -1404,19 +1392,7 @@
       "link_count": 23,
       "content_hash": "f72fa8abb103a34fdf5af102384eae10b0bea81b137a89e1238000405f673092",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/nyulangonehealth": {
-      "url": "https://app.qgenda.com/landingpage/nyulangonehealth",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/nyulangonehealth",
-      "title": "NYU Langone Health - OB/GYN",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 5,
-      "content_hash": "8d376febc6e9d86ae72ae3d2fcf38ed290463eea27dfbd0e700436d09e7eb989",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/muscsurg": {
       "url": "https://app.qgenda.com/landingpage/muscsurg",
@@ -1428,19 +1404,19 @@
       "link_count": 16,
       "content_hash": "d9ce4355a65981aa764ab698b852b2ee63fd146ab03a3da0b5a57919c829f5ac",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/muscortho": {
-      "url": "https://app.qgenda.com/landingpage/muscortho",
+    "https://app.qgenda.com/landingpage/musccard": {
+      "url": "https://app.qgenda.com/landingpage/musccard",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/muscortho",
-      "title": "Medical University of South Carolina - Department of Orthopaedics",
+      "final_url": "https://app.qgenda.com/landingpage/musccard",
+      "title": "Medical University of South Carolina - Department of Adult Cardiology",
       "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 24,
-      "content_hash": "9d3a10ad9cbf0b73c9fc99622a7d7d3db5d98a67031952e664e4e1472114d672",
+      "section_count": 4,
+      "link_count": 22,
+      "content_hash": "a016b8778ce5f2cf54fe16e313d8f79e53e8cb38615fd199b9706ab799f7c379",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/pcc": {
       "url": "https://app.qgenda.com/landingpage/pcc",
@@ -1452,7 +1428,7 @@
       "link_count": 10,
       "content_hash": "c11c060bd37bba30512731cc2a92b1c4f8be3dca6151b38323b2295ce50d336b",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ohpaobgyn": {
       "url": "https://app.qgenda.com/landingpage/ohpaobgyn",
@@ -1464,7 +1440,19 @@
       "link_count": 0,
       "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/muscortho": {
+      "url": "https://app.qgenda.com/landingpage/muscortho",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/muscortho",
+      "title": "Medical University of South Carolina - Department of Orthopaedics",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 24,
+      "content_hash": "9d3a10ad9cbf0b73c9fc99622a7d7d3db5d98a67031952e664e4e1472114d672",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/phoenixchildrensresidentsanes": {
       "url": "https://app.qgenda.com/landingpage/phoenixchildrensresidentsanes",
@@ -1476,19 +1464,7 @@
       "link_count": 1,
       "content_hash": "91ec5cf43c9ff4c404c191bb5640d2e392e60a72294ead3fa5eec5fa069355f3",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
-    },
-    "https://app.qgenda.com/landingpage/pennpathandlabmedoncall": {
-      "url": "https://app.qgenda.com/landingpage/pennpathandlabmedoncall",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/pennpathandlabmedoncall",
-      "title": "UPHS - Pathology & Laboratory Medicine - On Call",
-      "robots": "noindex, nofollow",
-      "section_count": 5,
-      "link_count": 22,
-      "content_hash": "976e3a3ab7b4862d913feb497361fb3b3d7eb12a6c108c4967c404ed5350bf24",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/pennres": {
       "url": "https://app.qgenda.com/landingpage/pennres",
@@ -1500,19 +1476,19 @@
       "link_count": 27,
       "content_hash": "15addff85feb1b57035b9c3068eb21f374734c7122dedffef03fdd2bfa021de6",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/pma": {
-      "url": "https://app.qgenda.com/landingpage/pma",
+    "https://app.qgenda.com/landingpage/nyulangonehealth": {
+      "url": "https://app.qgenda.com/landingpage/nyulangonehealth",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/pma",
-      "title": "Pediatric Medical Associates",
+      "final_url": "https://app.qgenda.com/landingpage/nyulangonehealth",
+      "title": "NYU Langone Health - OB/GYN",
       "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 3,
-      "content_hash": "208832b9bc136bb22dee297cc8fbe96d52400f42614478cf71165bc7519c66d6",
+      "section_count": 1,
+      "link_count": 5,
+      "content_hash": "8d376febc6e9d86ae72ae3d2fcf38ed290463eea27dfbd0e700436d09e7eb989",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/plcgas": {
       "url": "https://app.qgenda.com/landingpage/plcgas",
@@ -1524,7 +1500,31 @@
       "link_count": 5,
       "content_hash": "f239f98b0d637e0f89400a2a0e4b6cec29f631bcf1e73d0090dbdaedaa076d8b",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/pennpathandlabmedoncall": {
+      "url": "https://app.qgenda.com/landingpage/pennpathandlabmedoncall",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/pennpathandlabmedoncall",
+      "title": "UPHS - Pathology & Laboratory Medicine - On Call",
+      "robots": "noindex, nofollow",
+      "section_count": 5,
+      "link_count": 22,
+      "content_hash": "976e3a3ab7b4862d913feb497361fb3b3d7eb12a6c108c4967c404ed5350bf24",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/pma": {
+      "url": "https://app.qgenda.com/landingpage/pma",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/pma",
+      "title": "Pediatric Medical Associates",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 3,
+      "content_hash": "208832b9bc136bb22dee297cc8fbe96d52400f42614478cf71165bc7519c66d6",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ppg": {
       "url": "https://app.qgenda.com/landingpage/ppg",
@@ -1536,19 +1536,7 @@
       "link_count": 6,
       "content_hash": "367ddacdc8ef7cf9fe3b7b2888c070778b43a919ccac353cedd4274eccf296a5",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/pulmonaryoflancaster": {
-      "url": "https://app.qgenda.com/landingpage/pulmonaryoflancaster",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/pulmonaryoflancaster",
-      "title": "Pulmonary Associates of Lancaster, Ltd.",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 5,
-      "content_hash": "a3ce7241ea6a59a6fef1f606a258ccc76c71a1ffc92f980f77715ef18b2e5b49",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/radgroup": {
       "url": "https://app.qgenda.com/landingpage/radgroup",
@@ -1560,19 +1548,19 @@
       "link_count": 0,
       "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma": {
-      "url": "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma",
+    "https://app.qgenda.com/landingpage/pulmonaryoflancaster": {
+      "url": "https://app.qgenda.com/landingpage/pulmonaryoflancaster",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma",
-      "title": "Radiology Partners - Texas/Oklahoma",
+      "final_url": "https://app.qgenda.com/landingpage/pulmonaryoflancaster",
+      "title": "Pulmonary Associates of Lancaster, Ltd.",
       "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 3,
-      "content_hash": "4dc4cb8f963cf1fd0c12a0ebbfe312df81d86f1a6fa8ca88bc40fed0c363e2a4",
+      "section_count": 3,
+      "link_count": 5,
+      "content_hash": "a3ce7241ea6a59a6fef1f606a258ccc76c71a1ffc92f980f77715ef18b2e5b49",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/radpartnersvirtualbreastimaging": {
       "url": "https://app.qgenda.com/landingpage/radpartnersvirtualbreastimaging",
@@ -1584,7 +1572,7 @@
       "link_count": 1,
       "content_hash": "fbac5db2a467764876338d66c8df28eb66afb37fc16b738c24f2e2a1023c780c",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ramdemo": {
       "url": "https://app.qgenda.com/landingpage/ramdemo",
@@ -1596,7 +1584,7 @@
       "link_count": 0,
       "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/rileyanesthesia": {
       "url": "https://app.qgenda.com/landingpage/rileyanesthesia",
@@ -1608,19 +1596,19 @@
       "link_count": 5,
       "content_hash": "052613a4bbcd6b1df9897efa32cdcd8e6effbb1d22593a12e54e1b49682313d4",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/rpsandhills": {
-      "url": "https://app.qgenda.com/landingpage/rpsandhills",
+    "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma": {
+      "url": "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/rpsandhills",
-      "title": "Sandhills",
+      "final_url": "https://app.qgenda.com/landingpage/radpartnerstexasoklahoma",
+      "title": "Radiology Partners - Texas/Oklahoma",
       "robots": "noindex, nofollow",
       "section_count": 1,
-      "link_count": 1,
-      "content_hash": "b8e04096aa93d3cd14e70120b9f8b11ac353029de1ad8d2db581abea51cca2fa",
+      "link_count": 3,
+      "content_hash": "4dc4cb8f963cf1fd0c12a0ebbfe312df81d86f1a6fa8ca88bc40fed0c363e2a4",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/rpcrossroads": {
       "url": "https://app.qgenda.com/landingpage/rpcrossroads",
@@ -1632,19 +1620,19 @@
       "link_count": 4,
       "content_hash": "90f276c18575f06353c689e81c9fabea187927b6e2afaf54624364e966148a71",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/rstgih": {
-      "url": "https://app.qgenda.com/landingpage/rstgih",
+    "https://app.qgenda.com/landingpage/rpsandhills": {
+      "url": "https://app.qgenda.com/landingpage/rpsandhills",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/rstgih",
-      "title": "QGenda",
+      "final_url": "https://app.qgenda.com/landingpage/rpsandhills",
+      "title": "Sandhills",
       "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
+      "section_count": 1,
+      "link_count": 1,
+      "content_hash": "b8e04096aa93d3cd14e70120b9f8b11ac353029de1ad8d2db581abea51cca2fa",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/scphmtele": {
       "url": "https://app.qgenda.com/landingpage/scphmtele",
@@ -1656,31 +1644,7 @@
       "link_count": 30,
       "content_hash": "cdd358cf84b1089253b30f4e4b8c67390984e0051cdba13299f9e57fa931e22f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/scpvh": {
-      "url": "https://app.qgenda.com/landingpage/scpvh",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/scpvh",
-      "title": "SCP Health - Virtual Health",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 3,
-      "content_hash": "18d09fb437ff36b149489c5d933dfe330ea76e190d87d9b5dcd628eef7d503a2",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/sniweekendnp": {
-      "url": "https://app.qgenda.com/landingpage/sniweekendnp",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/sniweekendnp",
-      "title": "Weekend NP Schedule",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 1,
-      "content_hash": "d2eac7329686d0e23c31955cd0a8b0e9af74f2e3ecab6669e34bb1c34060ab3c",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/soundlake": {
       "url": "https://app.qgenda.com/landingpage/soundlake",
@@ -1692,7 +1656,19 @@
       "link_count": 2,
       "content_hash": "51fdff0de218409c3107fd36e5acad10c7dcb9928c3fb9ca218c0c82ac9acd93",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/rstgih": {
+      "url": "https://app.qgenda.com/landingpage/rstgih",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/rstgih",
+      "title": "QGenda",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "e0a355dd47460ed1d08f3f34b08f59c6a1c1740494a0ac1accd769e39729c66d",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/spa": {
       "url": "https://app.qgenda.com/landingpage/spa",
@@ -1704,19 +1680,31 @@
       "link_count": 7,
       "content_hash": "47540a28e1c7a9ac70bd55ae1d9054b605d92adea907123e6abd07b9494f57c7",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
-    "https://app.qgenda.com/landingpage/stonybrookpedsdev": {
-      "url": "https://app.qgenda.com/landingpage/stonybrookpedsdev",
+    "https://app.qgenda.com/landingpage/sniweekendnp": {
+      "url": "https://app.qgenda.com/landingpage/sniweekendnp",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/stonybrookpedsdev",
-      "title": "Stony Brook - Pediatrics - Devolopmental/Behavioral",
+      "final_url": "https://app.qgenda.com/landingpage/sniweekendnp",
+      "title": "Weekend NP Schedule",
       "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 2,
-      "content_hash": "649157403f2905bbea470572828d00d51bdb354027b723f6a2779c571643ea54",
+      "section_count": 1,
+      "link_count": 1,
+      "content_hash": "d2eac7329686d0e23c31955cd0a8b0e9af74f2e3ecab6669e34bb1c34060ab3c",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/scpvh": {
+      "url": "https://app.qgenda.com/landingpage/scpvh",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/scpvh",
+      "title": "SCP Health - Virtual Health",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 3,
+      "content_hash": "18d09fb437ff36b149489c5d933dfe330ea76e190d87d9b5dcd628eef7d503a2",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/srrh-residents": {
       "url": "https://app.qgenda.com/landingpage/srrh-residents",
@@ -1728,7 +1716,19 @@
       "link_count": 45,
       "content_hash": "5ff590a65314df828d25b86b3b306eaddf586b1765d8be05b2d86444af429d9b",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/stonybrookpedsdev": {
+      "url": "https://app.qgenda.com/landingpage/stonybrookpedsdev",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/stonybrookpedsdev",
+      "title": "Stony Brook - Pediatrics - Devolopmental/Behavioral",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 2,
+      "content_hash": "649157403f2905bbea470572828d00d51bdb354027b723f6a2779c571643ea54",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/subdomain": {
       "url": "https://app.qgenda.com/landingpage/subdomain",
@@ -1740,19 +1740,7 @@
       "link_count": 4,
       "content_hash": "4bc0f7385c56cace921a97d638e2343fb164a4d30c2f5ff795a0857a39352ccc",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/test123": {
-      "url": "https://app.qgenda.com/landingpage/test123",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/test123",
-      "title": "Testing",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 9,
-      "content_hash": "4cf704cdff2fb60c368cf2e2f7fa89320141f30240da40b397d8cf437c99cbb7",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/tacs": {
       "url": "https://app.qgenda.com/landingpage/tacs",
@@ -1764,7 +1752,7 @@
       "link_count": 9,
       "content_hash": "e07a628313cc4067076f2826040cf391a58c1f1dafbe50ccd4345f8a76a46638",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/testpage": {
       "url": "https://app.qgenda.com/landingpage/testpage",
@@ -1776,7 +1764,19 @@
       "link_count": 1,
       "content_hash": "0768b4c0582f91c130cee8aaa3a79e3fe690ce517738d50e3bc1542c917ff8e3",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/test123": {
+      "url": "https://app.qgenda.com/landingpage/test123",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/test123",
+      "title": "Testing",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 9,
+      "content_hash": "4cf704cdff2fb60c368cf2e2f7fa89320141f30240da40b397d8cf437c99cbb7",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/tukhsmedoncleessummit": {
       "url": "https://app.qgenda.com/landingpage/tukhsmedoncleessummit",
@@ -1788,7 +1788,7 @@
       "link_count": 5,
       "content_hash": "ed0e0cb6427c8332fcbbf17157773845b9e328345e724d3817dc042b2912d263",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ucsf": {
       "url": "https://app.qgenda.com/landingpage/ucsf",
@@ -1800,19 +1800,7 @@
       "link_count": 32,
       "content_hash": "51d9d245c8e17b9f7db14222ed9789377db5ece9da0997a9b628054991e6f7fd",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/ucsfanes": {
-      "url": "https://app.qgenda.com/landingpage/ucsfanes",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfanes",
-      "title": "",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ucsf_hm": {
       "url": "https://app.qgenda.com/landingpage/ucsf_hm",
@@ -1824,7 +1812,19 @@
       "link_count": 8,
       "content_hash": "b04c50274979b06a68c5afd6990e2257472856e7df14b852c123d6eac0d58e62",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
+    },
+    "https://app.qgenda.com/landingpage/ucsfanes": {
+      "url": "https://app.qgenda.com/landingpage/ucsfanes",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/ucsfanes",
+      "title": "",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ucsfcardiology": {
       "url": "https://app.qgenda.com/landingpage/ucsfcardiology",
@@ -1836,19 +1836,7 @@
       "link_count": 44,
       "content_hash": "28ffaf723154888b305c6cb9469e68b14dfa95981031349020a2327b1a4949fd",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/ucsfcards": {
-      "url": "https://app.qgenda.com/landingpage/ucsfcards",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfcards",
-      "title": "University of California, San Francisco - Cardiology",
-      "robots": "noindex, nofollow",
-      "section_count": 6,
-      "link_count": 44,
-      "content_hash": "dd7afe52a281a10eb4cd9c548bb8b2cd403c42f457ce3e099fb0fd2b1f57a260",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ucsfem": {
       "url": "https://app.qgenda.com/landingpage/ucsfem",
@@ -1860,7 +1848,7 @@
       "link_count": 0,
       "content_hash": "f884924c7e0886871a52b277ec4167e997ea3db98c999eae21148fc5e16fe07f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfclinpath": {
       "url": "https://app.qgenda.com/landingpage/ucsfclinpath",
@@ -1872,7 +1860,7 @@
       "link_count": 9,
       "content_hash": "0170c6901173eeaa31c23b5c0ca5e6def51e647ca305a3ee0ad57c45a5429d68",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfgenpeds": {
       "url": "https://app.qgenda.com/landingpage/ucsfgenpeds",
@@ -1884,7 +1872,19 @@
       "link_count": 5,
       "content_hash": "70b466d3349c9e1b0315470fe8726944e069284db055c6755c0f195f56bd4d4f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/ucsfcards": {
+      "url": "https://app.qgenda.com/landingpage/ucsfcards",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/ucsfcards",
+      "title": "University of California, San Francisco - Cardiology",
+      "robots": "noindex, nofollow",
+      "section_count": 6,
+      "link_count": 44,
+      "content_hash": "dd7afe52a281a10eb4cd9c548bb8b2cd403c42f457ce3e099fb0fd2b1f57a260",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:26Z"
     },
     "https://app.qgenda.com/landingpage/ucsfctsurgery": {
       "url": "https://app.qgenda.com/landingpage/ucsfctsurgery",
@@ -1896,19 +1896,7 @@
       "link_count": 12,
       "content_hash": "1684152d012b8d43770a823a8120d22bd56430dedbff19110dbaaddf2fab5358",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/ucsfhemonc": {
-      "url": "https://app.qgenda.com/landingpage/ucsfhemonc",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfhemonc",
-      "title": "UCSF - Hematology & Oncology - IP & AMB",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 9,
-      "content_hash": "d6fe6d47ad2366af76c085a7ca7970e92e6b10f6b6169235c5b67be2862d10fd",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfobgyn": {
       "url": "https://app.qgenda.com/landingpage/ucsfobgyn",
@@ -1920,7 +1908,19 @@
       "link_count": 13,
       "content_hash": "60a4cb7c3847a2da91b2deabde92d0ad77676f4d079d8217975725c8d5c3e731",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/ucsfhemonc": {
+      "url": "https://app.qgenda.com/landingpage/ucsfhemonc",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/ucsfhemonc",
+      "title": "UCSF - Hematology & Oncology - IP & AMB",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 9,
+      "content_hash": "d6fe6d47ad2366af76c085a7ca7970e92e6b10f6b6169235c5b67be2862d10fd",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfktu": {
       "url": "https://app.qgenda.com/landingpage/ucsfktu",
@@ -1932,7 +1932,7 @@
       "link_count": 34,
       "content_hash": "9bcbeaf173f239049a0e6d48d6c1562c1c7915ca443ae2b4487a007a6996686e",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfpedcardio": {
       "url": "https://app.qgenda.com/landingpage/ucsfpedcardio",
@@ -1944,7 +1944,7 @@
       "link_count": 38,
       "content_hash": "4772fb289e277832e91d2d9a37fd964df3089e77b73e422079482711ba91216f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfpath": {
       "url": "https://app.qgenda.com/landingpage/ucsfpath",
@@ -1956,19 +1956,7 @@
       "link_count": 37,
       "content_hash": "5792f8c98f553db5a92a47cccf37d74489bbb5c402c2b37b8588f177385dc443",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
-    },
-    "https://app.qgenda.com/landingpage/ucsfpedhemonc": {
-      "url": "https://app.qgenda.com/landingpage/ucsfpedhemonc",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfpedhemonc",
-      "title": "UCSF Pediatric Hematology/Oncology",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 11,
-      "content_hash": "3de7b7740e090ed7a8b8036c6c565b564d0617dc713b0176793898d25cef038c",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfpedoto": {
       "url": "https://app.qgenda.com/landingpage/ucsfpedoto",
@@ -1980,7 +1968,7 @@
       "link_count": 6,
       "content_hash": "b44025a3833621842836de79526cb3658d451c3950d0654ba9bf9d4d03b1f0da",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfpediatricgastro": {
       "url": "https://app.qgenda.com/landingpage/ucsfpediatricgastro",
@@ -1992,19 +1980,19 @@
       "link_count": 11,
       "content_hash": "7ef441f7fb346e0de10fd9465c3d1dc9e653e7073ace9420b6e918c4a738e6b5",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
-    "https://app.qgenda.com/landingpage/ucsfpedscc": {
-      "url": "https://app.qgenda.com/landingpage/ucsfpedscc",
+    "https://app.qgenda.com/landingpage/ucsfpedhemonc": {
+      "url": "https://app.qgenda.com/landingpage/ucsfpedhemonc",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfpedscc",
-      "title": "University of California, San Francisco - Pediatric Critical Care",
+      "final_url": "https://app.qgenda.com/landingpage/ucsfpedhemonc",
+      "title": "UCSF Pediatric Hematology/Oncology",
       "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 8,
-      "content_hash": "839f480e56be6f2079111e0325618bbf9aebd6ac7df8312be41e7c70364d4d87",
+      "section_count": 4,
+      "link_count": 11,
+      "content_hash": "3de7b7740e090ed7a8b8036c6c565b564d0617dc713b0176793898d25cef038c",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfpedsid": {
       "url": "https://app.qgenda.com/landingpage/ucsfpedsid",
@@ -2016,19 +2004,19 @@
       "link_count": 9,
       "content_hash": "21cf235275d963948abc9c2bb8194510e775b6dcfc8f9d73782e172edec77b56",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
-    "https://app.qgenda.com/landingpage/ucsfpedsrheum": {
-      "url": "https://app.qgenda.com/landingpage/ucsfpedsrheum",
+    "https://app.qgenda.com/landingpage/ucsfpedscc": {
+      "url": "https://app.qgenda.com/landingpage/ucsfpedscc",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfpedsrheum",
-      "title": "University of California - San Francisco - Pediatric Rheumatology",
+      "final_url": "https://app.qgenda.com/landingpage/ucsfpedscc",
+      "title": "University of California, San Francisco - Pediatric Critical Care",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 6,
-      "content_hash": "1aca57678a649dbc0dde8efaba81adbaa8d8a6457dab5ecc7cd353e19b630bcd",
+      "section_count": 2,
+      "link_count": 8,
+      "content_hash": "839f480e56be6f2079111e0325618bbf9aebd6ac7df8312be41e7c70364d4d87",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ucsfphm": {
       "url": "https://app.qgenda.com/landingpage/ucsfphm",
@@ -2040,43 +2028,19 @@
       "link_count": 5,
       "content_hash": "9dc11fcf051f4a1462affc4aacb1fc2e15f5af5fd4498766cbb0f6367af8b727",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
-    "https://app.qgenda.com/landingpage/ucsfradoncpd": {
-      "url": "https://app.qgenda.com/landingpage/ucsfradoncpd",
+    "https://app.qgenda.com/landingpage/ucsfpedsrheum": {
+      "url": "https://app.qgenda.com/landingpage/ucsfpedsrheum",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/ucsfradoncpd",
-      "title": "UCSF - Radiation Oncology - Physicists and Dosimetrists",
+      "final_url": "https://app.qgenda.com/landingpage/ucsfpedsrheum",
+      "title": "University of California - San Francisco - Pediatric Rheumatology",
       "robots": "noindex, nofollow",
-      "section_count": 1,
+      "section_count": 3,
       "link_count": 6,
-      "content_hash": "40b305ba5a820461d3796dac4289df957d9236ac1b347c5417b90e78ba37e880",
+      "content_hash": "1aca57678a649dbc0dde8efaba81adbaa8d8a6457dab5ecc7cd353e19b630bcd",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uhcbea": {
-      "url": "https://app.qgenda.com/landingpage/uhcbea",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcbea",
-      "title": "Beachwood On-Call",
-      "robots": "noindex, nofollow",
-      "section_count": 5,
-      "link_count": 15,
-      "content_hash": "8cec66bbf0625af0e426d386fd990bc9b8e2b7ccf33c904aed7b7e28d329a4c9",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uhcardio": {
-      "url": "https://app.qgenda.com/landingpage/uhcardio",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcardio",
-      "title": "University Hospitals of Cleveland - Harrington HVI",
-      "robots": "noindex, nofollow",
-      "section_count": 6,
-      "link_count": 33,
-      "content_hash": "5a31f0b3260f5b5c29b1c8df82f032fb63baf7f22bf785b6864389f3b5c5a71a",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/ufoto": {
       "url": "https://app.qgenda.com/landingpage/ufoto",
@@ -2088,19 +2052,43 @@
       "link_count": 16,
       "content_hash": "58eb9fc1b80f6eeaee6b9f1f27eca80dcdcb03ae971c57e92a9c46f2b29b2f1a",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
-    "https://app.qgenda.com/landingpage/uhcim": {
-      "url": "https://app.qgenda.com/landingpage/uhcim",
+    "https://app.qgenda.com/landingpage/ucsfradoncpd": {
+      "url": "https://app.qgenda.com/landingpage/ucsfradoncpd",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcim",
-      "title": "University Hospitals of Cleveland - Department of Medicine - Internal Medicine",
+      "final_url": "https://app.qgenda.com/landingpage/ucsfradoncpd",
+      "title": "UCSF - Radiation Oncology - Physicists and Dosimetrists",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 6,
+      "content_hash": "40b305ba5a820461d3796dac4289df957d9236ac1b347c5417b90e78ba37e880",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcardio": {
+      "url": "https://app.qgenda.com/landingpage/uhcardio",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcardio",
+      "title": "University Hospitals of Cleveland - Harrington HVI",
+      "robots": "noindex, nofollow",
+      "section_count": 6,
+      "link_count": 33,
+      "content_hash": "5a31f0b3260f5b5c29b1c8df82f032fb63baf7f22bf785b6864389f3b5c5a71a",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcbea": {
+      "url": "https://app.qgenda.com/landingpage/uhcbea",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcbea",
+      "title": "Beachwood On-Call",
       "robots": "noindex, nofollow",
       "section_count": 5,
-      "link_count": 7,
-      "content_hash": "65d3faccf95bc207010743e07c1eb79fcb8264c2f21c3c24e8481b36c39d9434",
+      "link_count": 15,
+      "content_hash": "8cec66bbf0625af0e426d386fd990bc9b8e2b7ccf33c904aed7b7e28d329a4c9",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhclevelandent": {
       "url": "https://app.qgenda.com/landingpage/uhclevelandent",
@@ -2112,19 +2100,7 @@
       "link_count": 3,
       "content_hash": "7e481ccef9caf419c193563aad828ffbfcf42d699ec297f40248d1574d28b9c1",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uhcmed": {
-      "url": "https://app.qgenda.com/landingpage/uhcmed",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcmed",
-      "title": "University Hospitals of Cleveland - Department of Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "b2565c590fc521d5e1fcba4b7ac957494eabe242896d7e8b02fd64c1a3cf2007",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhclevelandsurgery": {
       "url": "https://app.qgenda.com/landingpage/uhclevelandsurgery",
@@ -2136,7 +2112,19 @@
       "link_count": 16,
       "content_hash": "9fa9f0301c8b28dbd83add911875b912df68bc6de8292746520dac8d176f13a5",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcim": {
+      "url": "https://app.qgenda.com/landingpage/uhcim",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcim",
+      "title": "University Hospitals of Cleveland - Department of Medicine - Internal Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 5,
+      "link_count": 7,
+      "content_hash": "65d3faccf95bc207010743e07c1eb79fcb8264c2f21c3c24e8481b36c39d9434",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcmac": {
       "url": "https://app.qgenda.com/landingpage/uhcmac",
@@ -2148,7 +2136,19 @@
       "link_count": 15,
       "content_hash": "fb0b635c0f938e39f9f3783dc49996ea97180f3d209ab8bb494d30b9216e474f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcmed": {
+      "url": "https://app.qgenda.com/landingpage/uhcmed",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcmed",
+      "title": "University Hospitals of Cleveland - Department of Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "b2565c590fc521d5e1fcba4b7ac957494eabe242896d7e8b02fd64c1a3cf2007",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedcard": {
       "url": "https://app.qgenda.com/landingpage/uhcpedcard",
@@ -2160,7 +2160,7 @@
       "link_count": 9,
       "content_hash": "8c68c60154d0d9d81b0ff272a6cc581eb8816182683a1d31c5dd2fa7895217cc",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedcticu": {
       "url": "https://app.qgenda.com/landingpage/uhcpedcticu",
@@ -2172,7 +2172,7 @@
       "link_count": 4,
       "content_hash": "e0dc3ace1a9fe15f3fad8ed72b68e1d9f39120947c4884d5b315debefb686caa",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedem": {
       "url": "https://app.qgenda.com/landingpage/uhcpedem",
@@ -2184,7 +2184,7 @@
       "link_count": 3,
       "content_hash": "b0ba60c4c037c8abb7a2b0bed92e37bf42b1e544d7b448fc8687a763dcbcdf0e",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedendo": {
       "url": "https://app.qgenda.com/landingpage/uhcpedendo",
@@ -2196,7 +2196,7 @@
       "link_count": 3,
       "content_hash": "6b25a0009545c76008ce1369fd1051f318d2b6e6c8e6ed419021b677f5b701d2",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedgi": {
       "url": "https://app.qgenda.com/landingpage/uhcpedgi",
@@ -2208,19 +2208,7 @@
       "link_count": 3,
       "content_hash": "c248148ecd3351d8572ebd9df5535830f16420552270aeb8c52be89588082f77",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uhcpedscomp": {
-      "url": "https://app.qgenda.com/landingpage/uhcpedscomp",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcpedscomp",
-      "title": "University Hospitals of Cleveland - Pediatric Comprehensive Care",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 3,
-      "content_hash": "80f87a437868cf909f5ec968242ddc04dbad1ec7578a99aeef9eed35b02a1243",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpedho": {
       "url": "https://app.qgenda.com/landingpage/uhcpedho",
@@ -2232,7 +2220,19 @@
       "link_count": 3,
       "content_hash": "131c42088c1ae731be177c7d1f8429b7bac98d751043d809ac1b23693528c7d1",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcpedscomp": {
+      "url": "https://app.qgenda.com/landingpage/uhcpedscomp",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcpedscomp",
+      "title": "University Hospitals of Cleveland - Pediatric Comprehensive Care",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 3,
+      "content_hash": "80f87a437868cf909f5ec968242ddc04dbad1ec7578a99aeef9eed35b02a1243",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcpmc": {
       "url": "https://app.qgenda.com/landingpage/uhcpmc",
@@ -2244,7 +2244,7 @@
       "link_count": 13,
       "content_hash": "6520a3606a5376271615f52d3acd952125c083b14addb24da1085b45d942034f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcrbc": {
       "url": "https://app.qgenda.com/landingpage/uhcrbc",
@@ -2256,7 +2256,7 @@
       "link_count": 36,
       "content_hash": "5ece297dde618a36c266aaaaab91f0c17118b25c6738ba6636d2284a3bcc29df",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcrmc": {
       "url": "https://app.qgenda.com/landingpage/uhcrmc",
@@ -2268,7 +2268,7 @@
       "link_count": 14,
       "content_hash": "a29907930972698b2dc1a75fd34a81f7591a480027bca1185970b631f51271f0",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcsjmc": {
       "url": "https://app.qgenda.com/landingpage/uhcsjmc",
@@ -2280,7 +2280,7 @@
       "link_count": 15,
       "content_hash": "a5c956d36b0c48959712629b56f63f9a9170b858443d7545ce9f3f8482c644da",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhcsmc": {
       "url": "https://app.qgenda.com/landingpage/uhcsmc",
@@ -2292,7 +2292,7 @@
       "link_count": 14,
       "content_hash": "94a72c920e0f93aec88dd7833075d19e508ab5b4e13b0dc31229a000c0e95394",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uhctri": {
       "url": "https://app.qgenda.com/landingpage/uhctri",
@@ -2304,43 +2304,7 @@
       "link_count": 17,
       "content_hash": "c13e15be5bf429cbf2e61569593009b9e3cdb0db7097698dbe3fd3ce227f2c14",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/upenn-cardiacicu": {
-      "url": "https://app.qgenda.com/landingpage/upenn-cardiacicu",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/upenn-cardiacicu",
-      "title": "University of Pennsylvania - Cardiac ICU",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 11,
-      "content_hash": "2122a569a3b8bddc20b70adb40d148c9777fec639601dfc5c6c23aa2009f31b7",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uhcwes": {
-      "url": "https://app.qgenda.com/landingpage/uhcwes",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uhcwes",
-      "title": "Lake West On-Call",
-      "robots": "noindex, nofollow",
-      "section_count": 5,
-      "link_count": 17,
-      "content_hash": "a1f19a940c9e26b7f3cfb06abb08c78b67c76aeb9aa8aad5f7528b7e633b31f8",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/upennendo": {
-      "url": "https://app.qgenda.com/landingpage/upennendo",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/upennendo",
-      "title": "UPenn Endocrinology, Diabetes & Metabolism",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 5,
-      "content_hash": "bc71fd2f5ee072528cc57a04567a7c72eba980c2024819aaca9d72fbe81206ab",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/jhmvasc": {
       "url": "https://app.qgenda.com/landingpage/jhmvasc",
@@ -2352,7 +2316,31 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:06Z"
+      "checked_at": "2026-08-26T15:53:24Z"
+    },
+    "https://app.qgenda.com/landingpage/upenn-cardiacicu": {
+      "url": "https://app.qgenda.com/landingpage/upenn-cardiacicu",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/upenn-cardiacicu",
+      "title": "University of Pennsylvania - Cardiac ICU",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 11,
+      "content_hash": "2122a569a3b8bddc20b70adb40d148c9777fec639601dfc5c6c23aa2009f31b7",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uhcwes": {
+      "url": "https://app.qgenda.com/landingpage/uhcwes",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uhcwes",
+      "title": "Lake West On-Call",
+      "robots": "noindex, nofollow",
+      "section_count": 5,
+      "link_count": 17,
+      "content_hash": "a1f19a940c9e26b7f3cfb06abb08c78b67c76aeb9aa8aad5f7528b7e633b31f8",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/upennpah": {
       "url": "https://app.qgenda.com/landingpage/upennpah",
@@ -2364,7 +2352,7 @@
       "link_count": 13,
       "content_hash": "6c3b4b59c884a6a7c9eb022835e0be3be283978b79c933d1f9f667e21e162aa3",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs": {
       "url": "https://app.qgenda.com/landingpage/uphs",
@@ -2376,7 +2364,19 @@
       "link_count": 70,
       "content_hash": "4e27446a6bd771c5aa3761c304dddcd7688b4cc51b7a5f5eaee23d339f9bd7a7",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/upennendo": {
+      "url": "https://app.qgenda.com/landingpage/upennendo",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/upennendo",
+      "title": "UPenn Endocrinology, Diabetes & Metabolism",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 5,
+      "content_hash": "bc71fd2f5ee072528cc57a04567a7c72eba980c2024819aaca9d72fbe81206ab",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-card-oncall": {
       "url": "https://app.qgenda.com/landingpage/uphs-card-oncall",
@@ -2388,19 +2388,7 @@
       "link_count": 16,
       "content_hash": "f34dfdb23c2b60878e711c2800b5ea97d4e3e239cc4208d08479934f24db0882",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uphs-contacts": {
-      "url": "https://app.qgenda.com/landingpage/uphs-contacts",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphs-contacts",
-      "title": "University of Pennsylvania Health System - Department Contacts",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 0,
-      "content_hash": "76f7e3b64b80a5101fb61f6ff7d16db6e9cf01102b45a419f4f6b049c1298b53",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-hup": {
       "url": "https://app.qgenda.com/landingpage/uphs-hup",
@@ -2412,7 +2400,19 @@
       "link_count": 58,
       "content_hash": "2db38929382e7674e40b477d28ac0d448e6cd43380627f48a6b7539a36950d97",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uphs-contacts": {
+      "url": "https://app.qgenda.com/landingpage/uphs-contacts",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphs-contacts",
+      "title": "University of Pennsylvania Health System - Department Contacts",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 0,
+      "content_hash": "76f7e3b64b80a5101fb61f6ff7d16db6e9cf01102b45a419f4f6b049c1298b53",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-lgh": {
       "url": "https://app.qgenda.com/landingpage/uphs-lgh",
@@ -2424,7 +2424,7 @@
       "link_count": 32,
       "content_hash": "304e81fb0d0578fdb0a979b1612a6a9f3ad9e035c7e97b2ce3b1ba34970ceb52",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-hupced": {
       "url": "https://app.qgenda.com/landingpage/uphs-hupced",
@@ -2436,19 +2436,7 @@
       "link_count": 44,
       "content_hash": "3ff2c135ea2fe3d78e5bb09accacf69c97d3617c9537c490780449be881e4aec",
       "error": null,
-      "checked_at": "2026-08-26T14:08:10Z"
-    },
-    "https://app.qgenda.com/landingpage/uphs-pah": {
-      "url": "https://app.qgenda.com/landingpage/uphs-pah",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphs-pah",
-      "title": "Penn Medicine On Call - PAH",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 42,
-      "content_hash": "5b109d4b7d493d2c27ef5a15d1299600624867d1ed9903c025aafeef417b300c",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-oncall": {
       "url": "https://app.qgenda.com/landingpage/uphs-oncall",
@@ -2460,7 +2448,19 @@
       "link_count": 15,
       "content_hash": "ce982df017f55e5b1d11b33e643041bc5e039967dbf9a9b72887af37aa155ea6",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uphs-pah": {
+      "url": "https://app.qgenda.com/landingpage/uphs-pah",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphs-pah",
+      "title": "Penn Medicine On Call - PAH",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 42,
+      "content_hash": "5b109d4b7d493d2c27ef5a15d1299600624867d1ed9903c025aafeef417b300c",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-ppmc": {
       "url": "https://app.qgenda.com/landingpage/uphs-ppmc",
@@ -2472,31 +2472,7 @@
       "link_count": 47,
       "content_hash": "f32495fdfdc4cd77da818e7f5ffe1865c2fa904d0bd351e55dda06cbb82d0a94",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphs_gastroenterology": {
-      "url": "https://app.qgenda.com/landingpage/uphs_gastroenterology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphs_gastroenterology",
-      "title": "UPHS - Department of Gastroenterology",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 15,
-      "content_hash": "c51340032bc4e376a78fddbe771400c4d1b3e961d53072c52fe3f83bcba4c342",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsaddmedenterprise": {
-      "url": "https://app.qgenda.com/landingpage/uphsaddmedenterprise",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsaddmedenterprise",
-      "title": "UPHS- Addiction Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 1,
-      "link_count": 2,
-      "content_hash": "42a4e50464a6aeec4971492f028552992d74a530c8f739682968387f8a5c8887",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphs-ncc": {
       "url": "https://app.qgenda.com/landingpage/uphs-ncc",
@@ -2508,7 +2484,7 @@
       "link_count": 6,
       "content_hash": "4ddbe2a07083f6cf304fe5f2f9ca7b0c1de05ce6def64b6d941b0ab4c4a5643a",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphsanesthesia": {
       "url": "https://app.qgenda.com/landingpage/uphsanesthesia",
@@ -2520,7 +2496,19 @@
       "link_count": 8,
       "content_hash": "8fb263cf5349502955d51d88a4523a66b14be17308479a2ef49441c4e1b8a187",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:27Z"
+    },
+    "https://app.qgenda.com/landingpage/uphs_gastroenterology": {
+      "url": "https://app.qgenda.com/landingpage/uphs_gastroenterology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphs_gastroenterology",
+      "title": "UPHS - Department of Gastroenterology",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 15,
+      "content_hash": "c51340032bc4e376a78fddbe771400c4d1b3e961d53072c52fe3f83bcba4c342",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphscca": {
       "url": "https://app.qgenda.com/landingpage/uphscca",
@@ -2532,7 +2520,19 @@
       "link_count": 6,
       "content_hash": "a426b7945c38a8e4067504416b348267789f26eb548329ec424d064b6e2bf80f",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsaddmedenterprise": {
+      "url": "https://app.qgenda.com/landingpage/uphsaddmedenterprise",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsaddmedenterprise",
+      "title": "UPHS- Addiction Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 1,
+      "link_count": 2,
+      "content_hash": "42a4e50464a6aeec4971492f028552992d74a530c8f739682968387f8a5c8887",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:27Z"
     },
     "https://app.qgenda.com/landingpage/uphsdermatology": {
       "url": "https://app.qgenda.com/landingpage/uphsdermatology",
@@ -2544,7 +2544,7 @@
       "link_count": 10,
       "content_hash": "bfd835d60d905b183aa14e4cd6283620c838721aa5ee056d6ff555d4a1e97437",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsfamilymedenterprise": {
       "url": "https://app.qgenda.com/landingpage/uphsfamilymedenterprise",
@@ -2556,7 +2556,7 @@
       "link_count": 11,
       "content_hash": "d266e9073aa4dd37f1dd579610bc62101f1d609449fea5776ca15e3d28f00b08",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsgeriatrics": {
       "url": "https://app.qgenda.com/landingpage/uphsgeriatrics",
@@ -2568,19 +2568,7 @@
       "link_count": 13,
       "content_hash": "e8781efb1cd87b37b5adb5f4977d692f6c09bb291ea35bcb7126637532b08bde",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphshematologyandoncology": {
-      "url": "https://app.qgenda.com/landingpage/uphshematologyandoncology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphshematologyandoncology",
-      "title": "UPHS - Department of Hematology & Oncology",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 14,
-      "content_hash": "d6cac759794960c7709d0508ac189645fb25efe8f9e2e4000c1ed49b474562e0",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphshospitalmed": {
       "url": "https://app.qgenda.com/landingpage/uphshospitalmed",
@@ -2592,19 +2580,7 @@
       "link_count": 12,
       "content_hash": "fa29c3bef6c700ebe1bfcce0b387c3be189fdb9f3484a32199271acba1e64326",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphshupcardioenterprise": {
-      "url": "https://app.qgenda.com/landingpage/uphshupcardioenterprise",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphshupcardioenterprise",
-      "title": "UPHS - Department of Cardiology (HUP)",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 25,
-      "content_hash": "a30f500bf14cda5a13ddb75da6280c363a1bffad66a41fe1c9b64edfcacfedea",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsinfectiousdisease": {
       "url": "https://app.qgenda.com/landingpage/uphsinfectiousdisease",
@@ -2616,31 +2592,19 @@
       "link_count": 9,
       "content_hash": "e70a4f9de71fb46bae30587cbdb56742c6f1922facecd6c61009916c2fb9ceed",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
-    "https://app.qgenda.com/landingpage/uphsinternalmed": {
-      "url": "https://app.qgenda.com/landingpage/uphsinternalmed",
+    "https://app.qgenda.com/landingpage/uphshupcardioenterprise": {
+      "url": "https://app.qgenda.com/landingpage/uphshupcardioenterprise",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsinternalmed",
-      "title": "University of Pennsylvania Health System - Internal Medicine",
+      "final_url": "https://app.qgenda.com/landingpage/uphshupcardioenterprise",
+      "title": "UPHS - Department of Cardiology (HUP)",
       "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 9,
-      "content_hash": "93d1f0867cf6fdfdd41a28dd5f2b71831604aba499b029fe1412d62897348c16",
+      "section_count": 4,
+      "link_count": 25,
+      "content_hash": "a30f500bf14cda5a13ddb75da6280c363a1bffad66a41fe1c9b64edfcacfedea",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsliqonc": {
-      "url": "https://app.qgenda.com/landingpage/uphsliqonc",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsliqonc",
-      "title": "UPHS - Department of Liquid Oncology - APPs",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 8,
-      "content_hash": "7afbb2cdbe0bcf48437d6dbe00e760ea1813b928754e9a442020ebd5f74334ea",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsir": {
       "url": "https://app.qgenda.com/landingpage/uphsir",
@@ -2652,7 +2616,43 @@
       "link_count": 1,
       "content_hash": "fe080f9d87fead8b319b3ebd88d93331b1af50dab96993724e106d15f104c180",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsinternalmed": {
+      "url": "https://app.qgenda.com/landingpage/uphsinternalmed",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsinternalmed",
+      "title": "University of Pennsylvania Health System - Internal Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 9,
+      "content_hash": "93d1f0867cf6fdfdd41a28dd5f2b71831604aba499b029fe1412d62897348c16",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsliqonc": {
+      "url": "https://app.qgenda.com/landingpage/uphsliqonc",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsliqonc",
+      "title": "UPHS - Department of Liquid Oncology - APPs",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 8,
+      "content_hash": "7afbb2cdbe0bcf48437d6dbe00e760ea1813b928754e9a442020ebd5f74334ea",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphshematologyandoncology": {
+      "url": "https://app.qgenda.com/landingpage/uphshematologyandoncology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphshematologyandoncology",
+      "title": "UPHS - Department of Hematology & Oncology",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 14,
+      "content_hash": "d6cac759794960c7709d0508ac189645fb25efe8f9e2e4000c1ed49b474562e0",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsneurodiagnostic": {
       "url": "https://app.qgenda.com/landingpage/uphsneurodiagnostic",
@@ -2664,7 +2664,7 @@
       "link_count": 3,
       "content_hash": "85f745e762950053f35b583a001c2582b12defd3b22f3c206141f38c837d479a",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsneurology": {
       "url": "https://app.qgenda.com/landingpage/uphsneurology",
@@ -2676,19 +2676,7 @@
       "link_count": 13,
       "content_hash": "a7d979d546e639c8266964cc881f713c1e76ae254ba28c61ac11d741a8815cc2",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsneurosurgery": {
-      "url": "https://app.qgenda.com/landingpage/uphsneurosurgery",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsneurosurgery",
-      "title": "UPHS - Department of Neurosurgery",
-      "robots": "noindex, nofollow",
-      "section_count": 5,
-      "link_count": 12,
-      "content_hash": "00b2060fe7aec5aac566aa5020f6c4a3c5a8a2fc03494e85f44609d24e87fcfb",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsobgyn": {
       "url": "https://app.qgenda.com/landingpage/uphsobgyn",
@@ -2700,7 +2688,7 @@
       "link_count": 11,
       "content_hash": "46537afc9ba2201599226069281b9b52d28cb7af2810fe6e396a95922c7e3fc4",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsoec": {
       "url": "https://app.qgenda.com/landingpage/uphsoec",
@@ -2712,43 +2700,19 @@
       "link_count": 3,
       "content_hash": "b3c652ae945e8fe537d9e9beed179b455ec6c6b63b1aacc0f7a2389cd792cf4c",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
-    "https://app.qgenda.com/landingpage/uphsophthalmology": {
-      "url": "https://app.qgenda.com/landingpage/uphsophthalmology",
+    "https://app.qgenda.com/landingpage/uphsneurosurgery": {
+      "url": "https://app.qgenda.com/landingpage/uphsneurosurgery",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsophthalmology",
-      "title": "UPHS - Department of Ophthalmology",
+      "final_url": "https://app.qgenda.com/landingpage/uphsneurosurgery",
+      "title": "UPHS - Department of Neurosurgery",
       "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 10,
-      "content_hash": "6ea2644974638d8502a4b038c8eee9ab32a02a5bb075f0267834b318754415ed",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsorthopaedics": {
-      "url": "https://app.qgenda.com/landingpage/uphsorthopaedics",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsorthopaedics",
-      "title": "UPHS - Department of Orthopaedics",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
+      "section_count": 5,
       "link_count": 12,
-      "content_hash": "f8170b2a0939734ca992dd87934e5df3bff795a2f81b0d2390eade8f1bedb57d",
+      "content_hash": "00b2060fe7aec5aac566aa5020f6c4a3c5a8a2fc03494e85f44609d24e87fcfb",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsoralmax": {
-      "url": "https://app.qgenda.com/landingpage/uphsoralmax",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsoralmax",
-      "title": "UPHS - Oral Max",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 8,
-      "content_hash": "1174e32be04906b2d44313783bd6a642870d7d52635b82d9d2db3db03b65bc8f",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsotorhinolaryngology": {
       "url": "https://app.qgenda.com/landingpage/uphsotorhinolaryngology",
@@ -2760,19 +2724,7 @@
       "link_count": 12,
       "content_hash": "f6058bd38cf5ab9747bc082a9bfb717cce1e7173232fb2766d0fb8111f5a0057",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphspahcardioenterprise": {
-      "url": "https://app.qgenda.com/landingpage/uphspahcardioenterprise",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphspahcardioenterprise",
-      "title": "UPHS - Department of Cardiology (PAH)",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 9,
-      "content_hash": "dba0d56c7291b9da717d0c13968e1d5a0f280e9a2131723dd011d866bb3c8c51",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphspalliative": {
       "url": "https://app.qgenda.com/landingpage/uphspalliative",
@@ -2784,19 +2736,43 @@
       "link_count": 16,
       "content_hash": "ed91c5b8949fd3029bcf0be9346a08fef075a06c416fccf4fa84ceee6ebe7830",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
-    "https://app.qgenda.com/landingpage/uphspodiatry": {
-      "url": "https://app.qgenda.com/landingpage/uphspodiatry",
+    "https://app.qgenda.com/landingpage/uphsorthopaedics": {
+      "url": "https://app.qgenda.com/landingpage/uphsorthopaedics",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphspodiatry",
-      "title": "UPHS - Department of Podiatry",
+      "final_url": "https://app.qgenda.com/landingpage/uphsorthopaedics",
+      "title": "UPHS - Department of Orthopaedics",
       "robots": "noindex, nofollow",
       "section_count": 4,
-      "link_count": 14,
-      "content_hash": "570f998b450fbac0652e11b1d4703ce1d3266a4f73bffc1d4bc7b37927b6fda2",
+      "link_count": 12,
+      "content_hash": "f8170b2a0939734ca992dd87934e5df3bff795a2f81b0d2390eade8f1bedb57d",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsoralmax": {
+      "url": "https://app.qgenda.com/landingpage/uphsoralmax",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsoralmax",
+      "title": "UPHS - Oral Max",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 8,
+      "content_hash": "1174e32be04906b2d44313783bd6a642870d7d52635b82d9d2db3db03b65bc8f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphspahcardioenterprise": {
+      "url": "https://app.qgenda.com/landingpage/uphspahcardioenterprise",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphspahcardioenterprise",
+      "title": "UPHS - Department of Cardiology (PAH)",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 9,
+      "content_hash": "dba0d56c7291b9da717d0c13968e1d5a0f280e9a2131723dd011d866bb3c8c51",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphspsychiatry": {
       "url": "https://app.qgenda.com/landingpage/uphspsychiatry",
@@ -2808,7 +2784,7 @@
       "link_count": 12,
       "content_hash": "918f889834e68a2a0db1fc8c33b5a388499828809138c743e80246ada1ca9801",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/uphsppmccardioenterprise": {
       "url": "https://app.qgenda.com/landingpage/uphsppmccardioenterprise",
@@ -2820,175 +2796,19 @@
       "link_count": 16,
       "content_hash": "ebde3d55d2c1bc690ee340421616109a7bdd3a64e109cbd59393437d10069cf0",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
-    "https://app.qgenda.com/landingpage/uphspulmapps": {
-      "url": "https://app.qgenda.com/landingpage/uphspulmapps",
+    "https://app.qgenda.com/landingpage/uphsophthalmology": {
+      "url": "https://app.qgenda.com/landingpage/uphsophthalmology",
       "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphspulmapps",
-      "title": "UPHS - Department of Pulm APPs",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 7,
-      "content_hash": "bd9859eda3478cb9b817f3cdee773808f7a116eaa786ab374b95c0deb051d46a",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphspulmonary": {
-      "url": "https://app.qgenda.com/landingpage/uphspulmonary",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphspulmonary",
-      "title": "UPHS - Department of Pulmonary Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 22,
-      "content_hash": "e1c78a99a94150724e5bed5d488a240ec6c3fa3c12a78ba851f63b1763ebc8a2",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsrad": {
-      "url": "https://app.qgenda.com/landingpage/uphsrad",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsrad",
-      "title": "University of Pennsylvania - Department of Radiology",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 2,
-      "content_hash": "9704a12a2bd40ce6cc5b494749b7157e259a65b110c2a33bcd8534aa12d88771",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsrenalmedicine": {
-      "url": "https://app.qgenda.com/landingpage/uphsrenalmedicine",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsrenalmedicine",
-      "title": "UPHS - Department of Renal Medicine",
+      "final_url": "https://app.qgenda.com/landingpage/uphsophthalmology",
+      "title": "UPHS - Department of Ophthalmology",
       "robots": "noindex, nofollow",
       "section_count": 4,
       "link_count": 10,
-      "content_hash": "8cf86099960e2e54a2b9cfa00504343b4172fcd20ffead2cdde1349f2b7e2fb4",
+      "content_hash": "6ea2644974638d8502a4b038c8eee9ab32a02a5bb075f0267834b318754415ed",
       "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsrehabmedicine": {
-      "url": "https://app.qgenda.com/landingpage/uphsrehabmedicine",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsrehabmedicine",
-      "title": "UPHS - Department of Rehab Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 11,
-      "content_hash": "ee2c6619124ba4999e6ba44d0f3dd60ab3894f561306d89518045b7991f0ddcd",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphssurgeryenterprise": {
-      "url": "https://app.qgenda.com/landingpage/uphssurgeryenterprise",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphssurgeryenterprise",
-      "title": "UPHS - Department of Surgery",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 29,
-      "content_hash": "c850b61666b496ff4188a802f6d933e6d64f9bf708e8f6404fe502868752fa4b",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsradiationoncology": {
-      "url": "https://app.qgenda.com/landingpage/uphsradiationoncology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsradiationoncology",
-      "title": "UPHS - Department of Radiation Oncology",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 11,
-      "content_hash": "1995e98aa7953624d988376a5eb842a86a852d86010f43650f2af5b1551f621f",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uudpem": {
-      "url": "https://app.qgenda.com/landingpage/uudpem",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uudpem",
-      "title": "University of Utah - Department of Pediatrics - Emergency Medicine",
-      "robots": "noindex, nofollow",
-      "section_count": 3,
-      "link_count": 10,
-      "content_hash": "b0c792e0002675e25f7c2388bd0ac26b229e556779062305013eb11266c69e7e",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:12Z"
-    },
-    "https://app.qgenda.com/landingpage/uphsrheumatology": {
-      "url": "https://app.qgenda.com/landingpage/uphsrheumatology",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uphsrheumatology",
-      "title": "University of Pennsylvania - Department of Rheumatology",
-      "robots": "noindex, nofollow",
-      "section_count": 4,
-      "link_count": 9,
-      "content_hash": "3b41727158764a89f24936e0c8d7a5d308040a21ef522ec971843a6ebcd94612",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:11Z"
-    },
-    "https://app.qgenda.com/landingpage/uvaneph": {
-      "url": "https://app.qgenda.com/landingpage/uvaneph",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/uvaneph",
-      "title": "UVA Nephrology",
-      "robots": "noindex, nofollow",
-      "section_count": 7,
-      "link_count": 14,
-      "content_hash": "0a9950f19da8cd6ff8e8ba684957811dc3e47bad7bb7fb2ca6c60abea363d24e",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:12Z"
-    },
-    "https://app.qgenda.com/landingpage/videos": {
-      "url": "https://app.qgenda.com/landingpage/videos",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/videos",
-      "title": "Support Videos",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 8,
-      "content_hash": "d5579135d14f1c3f7099c2122d7554c854f287e6596f8b5425498a5d605eaed7",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:12Z"
-    },
-    "https://app.qgenda.com/landingpage/vtest": {
-      "url": "https://app.qgenda.com/landingpage/vtest",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/vtest",
-      "title": "Voalte Demo",
-      "robots": "noindex, nofollow",
-      "section_count": 0,
-      "link_count": 1,
-      "content_hash": "6669c229d1979beeb13e6ae2f9aa51fed48733db420d5c6b75bde84550ea6ab6",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:12Z"
-    },
-    "https://app.qgenda.com/landingpage/wvuhospitalists": {
-      "url": "https://app.qgenda.com/landingpage/wvuhospitalists",
-      "status": 200,
-      "final_url": "https://app.qgenda.com/landingpage/wvuhospitalists",
-      "title": "West Virginia University - Hospitalists",
-      "robots": "noindex, nofollow",
-      "section_count": 2,
-      "link_count": 4,
-      "content_hash": "cc352b7ecf169d1f54c8583a862715a3d0cc54e7d2f7788e985858497eaf2a6b",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:12Z"
-    },
-    "https://app.qgenda.com/landingpage/jhophthres": {
-      "url": "https://app.qgenda.com/landingpage/jhophthres",
-      "status": 500,
-      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
-      "title": "",
-      "robots": "",
-      "section_count": 0,
-      "link_count": 0,
-      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
-      "error": null,
-      "checked_at": "2026-08-26T14:08:07Z"
+      "checked_at": "2026-08-26T15:53:28Z"
     },
     "https://app.qgenda.com/landingpage/jhobgyn": {
       "url": "https://app.qgenda.com/landingpage/jhobgyn",
@@ -3000,10 +2820,178 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:07Z"
+      "checked_at": "2026-08-26T15:53:24Z"
     },
-    "https://app.qgenda.com/landingpage/jhugastro": {
-      "url": "https://app.qgenda.com/landingpage/jhugastro",
+    "https://app.qgenda.com/landingpage/uphspulmapps": {
+      "url": "https://app.qgenda.com/landingpage/uphspulmapps",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphspulmapps",
+      "title": "UPHS - Department of Pulm APPs",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 7,
+      "content_hash": "bd9859eda3478cb9b817f3cdee773808f7a116eaa786ab374b95c0deb051d46a",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphspodiatry": {
+      "url": "https://app.qgenda.com/landingpage/uphspodiatry",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphspodiatry",
+      "title": "UPHS - Department of Podiatry",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 14,
+      "content_hash": "570f998b450fbac0652e11b1d4703ce1d3266a4f73bffc1d4bc7b37927b6fda2",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsrad": {
+      "url": "https://app.qgenda.com/landingpage/uphsrad",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsrad",
+      "title": "University of Pennsylvania - Department of Radiology",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 2,
+      "content_hash": "9704a12a2bd40ce6cc5b494749b7157e259a65b110c2a33bcd8534aa12d88771",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphspulmonary": {
+      "url": "https://app.qgenda.com/landingpage/uphspulmonary",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphspulmonary",
+      "title": "UPHS - Department of Pulmonary Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 22,
+      "content_hash": "e1c78a99a94150724e5bed5d488a240ec6c3fa3c12a78ba851f63b1763ebc8a2",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsradiationoncology": {
+      "url": "https://app.qgenda.com/landingpage/uphsradiationoncology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsradiationoncology",
+      "title": "UPHS - Department of Radiation Oncology",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 11,
+      "content_hash": "1995e98aa7953624d988376a5eb842a86a852d86010f43650f2af5b1551f621f",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsrheumatology": {
+      "url": "https://app.qgenda.com/landingpage/uphsrheumatology",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsrheumatology",
+      "title": "University of Pennsylvania - Department of Rheumatology",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 9,
+      "content_hash": "3b41727158764a89f24936e0c8d7a5d308040a21ef522ec971843a6ebcd94612",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsrehabmedicine": {
+      "url": "https://app.qgenda.com/landingpage/uphsrehabmedicine",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsrehabmedicine",
+      "title": "UPHS - Department of Rehab Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 11,
+      "content_hash": "ee2c6619124ba4999e6ba44d0f3dd60ab3894f561306d89518045b7991f0ddcd",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphsrenalmedicine": {
+      "url": "https://app.qgenda.com/landingpage/uphsrenalmedicine",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphsrenalmedicine",
+      "title": "UPHS - Department of Renal Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 10,
+      "content_hash": "8cf86099960e2e54a2b9cfa00504343b4172fcd20ffead2cdde1349f2b7e2fb4",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uvaneph": {
+      "url": "https://app.qgenda.com/landingpage/uvaneph",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uvaneph",
+      "title": "UVA Nephrology",
+      "robots": "noindex, nofollow",
+      "section_count": 7,
+      "link_count": 14,
+      "content_hash": "0a9950f19da8cd6ff8e8ba684957811dc3e47bad7bb7fb2ca6c60abea363d24e",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uudpem": {
+      "url": "https://app.qgenda.com/landingpage/uudpem",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uudpem",
+      "title": "University of Utah - Department of Pediatrics - Emergency Medicine",
+      "robots": "noindex, nofollow",
+      "section_count": 3,
+      "link_count": 10,
+      "content_hash": "b0c792e0002675e25f7c2388bd0ac26b229e556779062305013eb11266c69e7e",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/vtest": {
+      "url": "https://app.qgenda.com/landingpage/vtest",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/vtest",
+      "title": "Voalte Demo",
+      "robots": "noindex, nofollow",
+      "section_count": 0,
+      "link_count": 1,
+      "content_hash": "6669c229d1979beeb13e6ae2f9aa51fed48733db420d5c6b75bde84550ea6ab6",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/videos": {
+      "url": "https://app.qgenda.com/landingpage/videos",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/videos",
+      "title": "Support Videos",
+      "robots": "noindex, nofollow",
+      "section_count": 2,
+      "link_count": 8,
+      "content_hash": "d5579135d14f1c3f7099c2122d7554c854f287e6596f8b5425498a5d605eaed7",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/uphssurgeryenterprise": {
+      "url": "https://app.qgenda.com/landingpage/uphssurgeryenterprise",
+      "status": 200,
+      "final_url": "https://app.qgenda.com/landingpage/uphssurgeryenterprise",
+      "title": "UPHS - Department of Surgery",
+      "robots": "noindex, nofollow",
+      "section_count": 4,
+      "link_count": 29,
+      "content_hash": "c850b61666b496ff4188a802f6d933e6d64f9bf708e8f6404fe502868752fa4b",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/wvuhospitalists": {
+      "url": "https://app.qgenda.com/landingpage/wvuhospitalists",
+      "status": 200,
+      "final_url": "https://fs.wvuhs.com/adfs/ls/?SAMLRequest=hJLNjtMwFIX3I807WGad2PlpJ7WajgoVotIA1bSwYHcndlpLsZ3xdZry9iiZBsSCsrJkn6Nz%2FN27fLyYhpyVR%2B1sSZOYU6Js5aS2x5J2oY4K%2Bri6v1simKYV6y6c7LN67RQGcjGNRTE8lLTzVjhAjcKCUShCJfbrz08ijbkAROWDdpZeLUbeNhgVQEKASS%2BxpKcQWsFY3%2Fdxn8XOH1nKOWd8wS6mkaiP7yjZbkoKPAGeqWoeVdmiiPJknkQvMoHoIc9lMQeoFrOCki1ip7YWA9hQ0pSn84gXUTo%2FJDMxy0RaxA9Znmd5%2FoOS7xOddKDz0flKjRxKWkODipKNwqAtDF98K4qCsRrj%2FtydMK6cYSBrZA0ySnbeBVe55r22V8Y3QLy8iVB8Ohx20e7r%2FkDJeqL5wVnsjPJ75c%2B6Ut%2Ben%2F6EQ9vGr0dlJYzxiI4Nc0pZ6zBMWMeR3i7QXtvS1f0dIeMSiBGdX%2F0vajkek%2Fq3vRVfwKjtZucaXf0caBoI%2Fy6RxMl4o2VUj1KhDOhmLaVXiJSwYTfHpL%2BXc%2FULAAD%2F%2FwMA&RelayState=login-01a03ec6-c398-4161-bd1a-744d86aac958&SigAlg=http%3A%2F%2Fwww.w3.org%2F2001%2F04%2Fxmldsig-more%23rsa-sha256&Signature=X6fnTnUxewCGu6aBWCRodEWIBHcjWSNNw6s0gDFemGpNMa6dY27T7bF1Y9OEvkQsLhXtSn%2FIxk8d8NPJtvCcKmYO9LBfP9oe5W93Nyrpte317cFjJaLy8VhfvXp%2Bvm3y%2BoN0pp5IPWVr7cTrOfnvffsOS9JMI7qjH34kGk0PdKJ1fjvl69neqrh6Nv9uIat%2BQHtvZSOZbLVcm9QNv%2FbRqi1h92DDp5ZrzMwXr4Iajv%2Fq9WhwQMbkCVCSXuJTCx5zAt2ixUmLVLz0OcJzznuIrU4giZQ5A824z5d74ZMqFMFsAdAGh5FoGioARI5aFyLgcNeUFg4r9%2BTe1upSUufD2w%3D%3D",
+      "title": "Sign In",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a4c0779b16fdb29fbd0f07914930a937165ada78859ad432c02df9b744aefe07",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:28Z"
+    },
+    "https://app.qgenda.com/landingpage/jhophthres": {
+      "url": "https://app.qgenda.com/landingpage/jhophthres",
       "status": 500,
       "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
       "title": "",
@@ -3012,7 +3000,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/jhrad": {
       "url": "https://app.qgenda.com/landingpage/jhrad",
@@ -3024,7 +3012,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/jhsh": {
       "url": "https://app.qgenda.com/landingpage/jhsh",
@@ -3036,7 +3024,19 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:08Z"
+      "checked_at": "2026-08-26T15:53:25Z"
+    },
+    "https://app.qgenda.com/landingpage/jhugastro": {
+      "url": "https://app.qgenda.com/landingpage/jhugastro",
+      "status": 500,
+      "final_url": "https://login.jh.edu/idp/profile/SAML2/Redirect/SSO?execution=e1s1",
+      "title": "",
+      "robots": "",
+      "section_count": 0,
+      "link_count": 0,
+      "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
+      "error": null,
+      "checked_at": "2026-08-26T15:53:25Z"
     },
     "https://app.qgenda.com/landingpage/smh": {
       "url": "https://app.qgenda.com/landingpage/smh",
@@ -3048,7 +3048,7 @@
       "link_count": 0,
       "content_hash": "a6b38464d6dea9a2cabac4cff74b3c20d3b7d3f8451c942c8ad7bbd3933d1842",
       "error": null,
-      "checked_at": "2026-08-26T14:08:09Z"
+      "checked_at": "2026-08-26T15:53:26Z"
     }
   }
 }
