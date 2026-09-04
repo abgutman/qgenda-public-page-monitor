@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-04T18:24:37Z",
+  "updated_at": "2026-09-04T21:29:24Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -12,10 +12,11 @@
     "page_count": 165
   },
   "current_page_states": {
-    "live_no_schedule": 80,
-    "public_schedule": 87,
-    "removed": 1,
-    "sso": 86
+    "live_no_schedule": 60,
+    "login_required": 115,
+    "public_schedule": 329,
+    "removed": 4,
+    "sso": 173
   },
   "classifications": {
     "page_content_changed": {
