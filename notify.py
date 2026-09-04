@@ -19,15 +19,29 @@ def report_body(report: dict) -> str:
         "",
     ]
     for change in report["changes"]:
+        organization = change.get("organization") or "Unassigned organization"
         lines.extend(
             [
-                change["url"],
-                "Changed: " + ", ".join(change["changed_fields"]),
+                f"{organization}: {change['url']}",
+                "Classification: " + change.get("classification", "unclassified"),
+                "Fields changed: " + ", ".join(change["changed_fields"]),
                 f"Before: {json.dumps(change['before'], sort_keys=True)}",
                 f"After:  {json.dumps(change['after'], sort_keys=True)}",
                 "",
             ]
         )
+    cumulative = report.get("cumulative_classifications", {})
+    if cumulative:
+        lines.extend(["Cumulative history", "------------------"])
+        for classification in ("schedule_content_removed", "page_removed", "sso_added"):
+            row = cumulative.get(classification, {})
+            label = classification.replace("_", " ").title()
+            lines.append(
+                f"{label}: {row.get('system_count', 0)} systems, "
+                f"{row.get('page_count', 0)} pages, {row.get('event_count', 0)} events"
+            )
+        lines.append("")
+    lines.append("This message is sent only when stable page metadata changes; routine checks remain silent.")
     return "\n".join(lines)
 
 

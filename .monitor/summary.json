@@ -1,0 +1,92 @@
+{
+  "version": 1,
+  "updated_at": "2026-09-04T18:24:37Z",
+  "tracked_inventory": {
+    "page_count": 681,
+    "organization_count": 313,
+    "canonical_system_count": 69,
+    "mapped_system_count": 75
+  },
+  "history": {
+    "event_count": 195,
+    "page_count": 165
+  },
+  "current_page_states": {
+    "live_no_schedule": 80,
+    "public_schedule": 87,
+    "removed": 1,
+    "sso": 86
+  },
+  "classifications": {
+    "page_content_changed": {
+      "event_count": 24,
+      "page_count": 21,
+      "organization_count": 6,
+      "system_count": 5,
+      "systems": [
+        "Cedars-Sinai",
+        "Cleveland Clinic",
+        "Johns Hopkins Medicine",
+        "Penn Medicine",
+        "UCSF Health"
+      ]
+    },
+    "page_removed": {
+      "event_count": 1,
+      "page_count": 1,
+      "organization_count": 1,
+      "system_count": 1,
+      "systems": [
+        "Cedars-Sinai"
+      ]
+    },
+    "schedule_content_added": {
+      "event_count": 3,
+      "page_count": 3,
+      "organization_count": 1,
+      "system_count": 1,
+      "systems": [
+        "UCSF Health"
+      ]
+    },
+    "schedule_content_removed": {
+      "event_count": 75,
+      "page_count": 75,
+      "organization_count": 7,
+      "system_count": 5,
+      "systems": [
+        "Cedars-Sinai",
+        "Penn Medicine",
+        "UCSF Health",
+        "UVA Health",
+        "Wellstar MCG Health"
+      ]
+    },
+    "sso_added": {
+      "event_count": 89,
+      "page_count": 88,
+      "organization_count": 33,
+      "system_count": 8,
+      "systems": [
+        "Children's Hospital of Philadelphia",
+        "Hawaii Pacific Health",
+        "Houston Methodist",
+        "IU Health",
+        "Johns Hopkins Medicine",
+        "University Hospitals",
+        "WVU Medicine",
+        "Wellstar MCG Health"
+      ]
+    },
+    "sso_removed": {
+      "event_count": 3,
+      "page_count": 3,
+      "organization_count": 3,
+      "system_count": 2,
+      "systems": [
+        "Hawaii Pacific Health",
+        "WVU Medicine"
+      ]
+    }
+  }
+}

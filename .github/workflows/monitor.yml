@@ -36,7 +36,7 @@ jobs:
       - name: Check landing pages
         id: monitor
         run: |
-          python monitor.py --pages pages.json --state .monitor/state.json --report .monitor/report.json
+          python monitor.py --pages pages.json --state .monitor/state.json --report .monitor/report.json --workers 24 --timeout 10 --attempts 2
           count=$(python -c 'import json; print(json.load(open(".monitor/report.json"))["change_count"])')
           echo "change_count=$count" >> "$GITHUB_OUTPUT"
 
@@ -64,7 +64,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add .monitor/state.json .monitor/heartbeat
+          git add .monitor/state.json .monitor/history.jsonl .monitor/summary.json .monitor/heartbeat
           if ! git diff --cached --quiet; then
             git commit -m "Update monitored QGenda page state"
             git push
@@ -79,10 +79,16 @@ jobs:
             const report = JSON.parse(fs.readFileSync(".monitor/report.json", "utf8"));
             const rows = report.changes.map(change => {
               const fields = change.changed_fields.join(", ");
-              return `- [${change.url}](${change.url}) — ${fields}`;
+              const organization = change.organization || "Unassigned organization";
+              return `- **${organization} — ${change.classification}**: [page](${change.url}) (${fields})`;
+            });
+            const cumulative = report.cumulative_classifications;
+            const totals = ["schedule_content_removed", "page_removed", "sso_added"].map(key => {
+              const row = cumulative[key];
+              return `- ${key.replaceAll("_", " ")}: **${row.system_count} systems**, ${row.page_count} pages, ${row.event_count} events`;
             });
             const title = `QGenda alert: ${report.change_count} landing page change(s)`;
-            const body = `Checked: ${report.generated_at}\n\n${rows.join("\n")}\n\nThe repository stores hashes and metadata only. Inspect each public page to review the change.\n\n@${context.repo.owner}`;
+            const body = `Checked: ${report.generated_at}\n\n${rows.join("\n")}\n\n### Cumulative history\n\n${totals.join("\n")}\n\nRoutine checks stay silent. The repository stores hashes and metadata only.\n\n@${context.repo.owner}`;
             const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
             try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
             catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
@@ -93,7 +99,7 @@ jobs:
         with:
           script: |
             const title = "QGenda monitor test alert";
-            const body = `The hourly monitor's GitHub notification path is working. No landing-page change triggered this test.\n\n@${context.repo.owner}`;
+            const body = `The monitor's change-only GitHub notification path is working. No landing-page change triggered this test.\n\n@${context.repo.owner}`;
             const issue = {owner: context.repo.owner, repo: context.repo.repo, title, body};
             try { issue.assignees = [context.repo.owner]; await github.rest.issues.create(issue); }
             catch (_) { delete issue.assignees; await github.rest.issues.create(issue); }
