@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-08T14:32:34Z",
+  "updated_at": "2026-09-08T18:41:06Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,13 +8,13 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 196,
-    "page_count": 166
+    "event_count": 208,
+    "page_count": 177
   },
   "current_page_states": {
     "live_no_schedule": 60,
-    "login_required": 115,
-    "public_schedule": 329,
+    "login_required": 127,
+    "public_schedule": 317,
     "removed": 4,
     "sso": 173
   },
@@ -52,13 +52,14 @@
       ]
     },
     "schedule_content_removed": {
-      "event_count": 75,
-      "page_count": 75,
-      "organization_count": 7,
-      "system_count": 5,
+      "event_count": 87,
+      "page_count": 87,
+      "organization_count": 8,
+      "system_count": 6,
       "systems": [
         "Cedars-Sinai",
         "Penn Medicine",
+        "Piedmont Healthcare",
         "UCSF Health",
         "UVA Health",
         "Wellstar MCG Health"
