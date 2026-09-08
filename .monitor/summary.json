@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-08T18:41:06Z",
+  "updated_at": "2026-09-08T21:51:42Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,8 +8,8 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 208,
-    "page_count": 177
+    "event_count": 209,
+    "page_count": 178
   },
   "current_page_states": {
     "live_no_schedule": 60,
@@ -20,16 +20,17 @@
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 25,
-      "page_count": 22,
-      "organization_count": 7,
-      "system_count": 6,
+      "event_count": 26,
+      "page_count": 23,
+      "organization_count": 8,
+      "system_count": 7,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
         "Johns Hopkins Medicine",
         "Penn Medicine",
         "Piedmont Healthcare",
+        "UC San Diego Health",
         "UCSF Health"
       ]
     },
