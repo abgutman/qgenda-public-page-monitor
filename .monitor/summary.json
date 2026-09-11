@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-10T14:26:52Z",
+  "updated_at": "2026-09-11T00:10:45Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,13 +8,13 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 212,
+    "event_count": 213,
     "page_count": 178
   },
   "current_page_states": {
-    "live_no_schedule": 57,
+    "live_no_schedule": 56,
     "login_required": 130,
-    "public_schedule": 317,
+    "public_schedule": 318,
     "removed": 4,
     "sso": 173
   },
@@ -44,8 +44,8 @@
       ]
     },
     "schedule_content_added": {
-      "event_count": 3,
-      "page_count": 3,
+      "event_count": 4,
+      "page_count": 4,
       "organization_count": 1,
       "system_count": 1,
       "systems": [
