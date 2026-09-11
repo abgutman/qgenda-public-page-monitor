@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-11T00:10:45Z",
+  "updated_at": "2026-09-11T04:40:21Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,13 +8,13 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 213,
-    "page_count": 178
+    "event_count": 214,
+    "page_count": 179
   },
   "current_page_states": {
     "live_no_schedule": 56,
-    "login_required": 130,
-    "public_schedule": 318,
+    "login_required": 129,
+    "public_schedule": 319,
     "removed": 4,
     "sso": 173
   },
@@ -44,9 +44,9 @@
       ]
     },
     "schedule_content_added": {
-      "event_count": 4,
-      "page_count": 4,
-      "organization_count": 1,
+      "event_count": 5,
+      "page_count": 5,
+      "organization_count": 2,
       "system_count": 1,
       "systems": [
         "UCSF Health"
