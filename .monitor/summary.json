@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-15T15:01:13Z",
+  "updated_at": "2026-09-15T19:00:56Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,20 +8,20 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 226,
-    "page_count": 187
+    "event_count": 231,
+    "page_count": 190
   },
   "current_page_states": {
-    "live_no_schedule": 55,
+    "live_no_schedule": 54,
     "login_required": 135,
-    "public_schedule": 314,
+    "public_schedule": 315,
     "removed": 4,
     "sso": 173
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 36,
-      "page_count": 30,
+      "event_count": 40,
+      "page_count": 33,
       "organization_count": 12,
       "system_count": 11,
       "systems": [
@@ -48,11 +48,12 @@
       ]
     },
     "schedule_content_added": {
-      "event_count": 5,
-      "page_count": 5,
-      "organization_count": 2,
-      "system_count": 1,
+      "event_count": 6,
+      "page_count": 6,
+      "organization_count": 3,
+      "system_count": 2,
       "systems": [
+        "NewYork-Presbyterian / Columbia University",
         "UCSF Health"
       ]
     },
