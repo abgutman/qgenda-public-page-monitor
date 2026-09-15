@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-14T20:57:39Z",
+  "updated_at": "2026-09-15T15:01:13Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,32 +8,34 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 222,
-    "page_count": 183
+    "event_count": 226,
+    "page_count": 187
   },
   "current_page_states": {
-    "live_no_schedule": 54,
+    "live_no_schedule": 55,
     "login_required": 135,
-    "public_schedule": 315,
+    "public_schedule": 314,
     "removed": 4,
     "sso": 173
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 33,
-      "page_count": 27,
-      "organization_count": 10,
-      "system_count": 9,
+      "event_count": 36,
+      "page_count": 30,
+      "organization_count": 12,
+      "system_count": 11,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
         "Emory Healthcare",
         "Johns Hopkins Medicine",
+        "Morehouse School of Medicine",
         "Penn Medicine",
         "Piedmont Healthcare",
         "UC San Diego Health",
         "UCSF Health",
-        "University of Maryland Medical System"
+        "University of Maryland Medical System",
+        "VA Health Care"
       ]
     },
     "page_removed": {
@@ -55,12 +57,13 @@
       ]
     },
     "schedule_content_removed": {
-      "event_count": 91,
-      "page_count": 89,
-      "organization_count": 8,
-      "system_count": 6,
+      "event_count": 92,
+      "page_count": 90,
+      "organization_count": 9,
+      "system_count": 7,
       "systems": [
         "Cedars-Sinai",
+        "NewYork-Presbyterian / Columbia University",
         "Penn Medicine",
         "Piedmont Healthcare",
         "UCSF Health",
