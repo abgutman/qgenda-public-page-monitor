@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-18T00:19:39Z",
+  "updated_at": "2026-09-18T18:29:06Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,20 +8,20 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 241,
-    "page_count": 197
+    "event_count": 246,
+    "page_count": 202
   },
   "current_page_states": {
-    "live_no_schedule": 54,
+    "live_no_schedule": 55,
     "login_required": 135,
-    "public_schedule": 315,
+    "public_schedule": 314,
     "removed": 4,
     "sso": 173
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 50,
-      "page_count": 40,
+      "event_count": 54,
+      "page_count": 44,
       "organization_count": 13,
       "system_count": 11,
       "systems": [
@@ -58,12 +58,13 @@
       ]
     },
     "schedule_content_removed": {
-      "event_count": 92,
-      "page_count": 90,
-      "organization_count": 9,
-      "system_count": 7,
+      "event_count": 93,
+      "page_count": 91,
+      "organization_count": 10,
+      "system_count": 8,
       "systems": [
         "Cedars-Sinai",
+        "Emory Healthcare",
         "NewYork-Presbyterian / Columbia University",
         "Penn Medicine",
         "Piedmont Healthcare",
