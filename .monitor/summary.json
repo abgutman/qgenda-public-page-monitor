@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-19T00:21:46Z",
+  "updated_at": "2026-09-21T21:04:34Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,21 +8,21 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 247,
-    "page_count": 202
+    "event_count": 250,
+    "page_count": 205
   },
   "current_page_states": {
     "live_no_schedule": 55,
     "login_required": 135,
-    "public_schedule": 314,
-    "removed": 4,
+    "public_schedule": 313,
+    "removed": 5,
     "sso": 173
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 55,
-      "page_count": 44,
-      "organization_count": 13,
+      "event_count": 57,
+      "page_count": 46,
+      "organization_count": 15,
       "system_count": 11,
       "systems": [
         "Cedars-Sinai",
@@ -39,12 +39,13 @@
       ]
     },
     "page_removed": {
-      "event_count": 1,
-      "page_count": 1,
-      "organization_count": 1,
-      "system_count": 1,
+      "event_count": 2,
+      "page_count": 2,
+      "organization_count": 2,
+      "system_count": 2,
       "systems": [
-        "Cedars-Sinai"
+        "Cedars-Sinai",
+        "M Health Fairview"
       ]
     },
     "schedule_content_added": {
