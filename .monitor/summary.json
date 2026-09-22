@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-21T21:04:34Z",
+  "updated_at": "2026-09-22T18:55:33Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,19 +8,19 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 250,
-    "page_count": 205
+    "event_count": 253,
+    "page_count": 206
   },
   "current_page_states": {
-    "live_no_schedule": 55,
+    "live_no_schedule": 54,
     "login_required": 135,
-    "public_schedule": 313,
-    "removed": 5,
+    "public_schedule": 315,
+    "removed": 4,
     "sso": 173
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 57,
+      "event_count": 58,
       "page_count": 46,
       "organization_count": 15,
       "system_count": 11,
@@ -48,12 +48,22 @@
         "M Health Fairview"
       ]
     },
-    "schedule_content_added": {
-      "event_count": 6,
-      "page_count": 6,
-      "organization_count": 3,
-      "system_count": 2,
+    "page_restored": {
+      "event_count": 1,
+      "page_count": 1,
+      "organization_count": 1,
+      "system_count": 1,
       "systems": [
+        "M Health Fairview"
+      ]
+    },
+    "schedule_content_added": {
+      "event_count": 7,
+      "page_count": 7,
+      "organization_count": 4,
+      "system_count": 3,
+      "systems": [
+        "MUSC Health",
         "NewYork-Presbyterian / Columbia University",
         "UCSF Health"
       ]
