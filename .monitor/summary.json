@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-22T18:55:33Z",
+  "updated_at": "2026-09-23T16:58:24Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,7 +8,7 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 253,
+    "event_count": 254,
     "page_count": 206
   },
   "current_page_states": {
@@ -20,15 +20,16 @@
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 58,
-      "page_count": 46,
-      "organization_count": 15,
-      "system_count": 11,
+      "event_count": 59,
+      "page_count": 47,
+      "organization_count": 16,
+      "system_count": 12,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
         "Emory Healthcare",
         "Johns Hopkins Medicine",
+        "MUSC Health",
         "Morehouse School of Medicine",
         "Penn Medicine",
         "Piedmont Healthcare",
