@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-24T04:50:43Z",
+  "updated_at": "2026-09-24T15:06:32Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,8 +8,8 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 255,
-    "page_count": 207
+    "event_count": 257,
+    "page_count": 209
   },
   "current_page_states": {
     "live_no_schedule": 54,
@@ -20,10 +20,10 @@
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 60,
-      "page_count": 48,
-      "organization_count": 17,
-      "system_count": 13,
+      "event_count": 62,
+      "page_count": 50,
+      "organization_count": 18,
+      "system_count": 14,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
@@ -33,6 +33,7 @@
         "Morehouse School of Medicine",
         "Penn Medicine",
         "Piedmont Healthcare",
+        "Stanford Health Care",
         "UC Davis Health",
         "UC San Diego Health",
         "UCSF Health",
