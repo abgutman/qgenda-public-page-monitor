@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-09-28T15:28:22Z",
+  "updated_at": "2026-09-30T19:20:07Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,26 +8,27 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 260,
-    "page_count": 210
+    "event_count": 262,
+    "page_count": 212
   },
   "current_page_states": {
     "live_no_schedule": 53,
     "login_required": 136,
-    "public_schedule": 315,
+    "public_schedule": 314,
     "removed": 4,
-    "sso": 173
+    "sso": 174
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 65,
-      "page_count": 52,
-      "organization_count": 19,
-      "system_count": 15,
+      "event_count": 66,
+      "page_count": 53,
+      "organization_count": 20,
+      "system_count": 16,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
         "Emory Healthcare",
+        "Houston Methodist",
         "Johns Hopkins Medicine",
         "MUSC Health",
         "Morehouse School of Medicine",
@@ -89,16 +90,17 @@
       ]
     },
     "sso_added": {
-      "event_count": 89,
-      "page_count": 88,
-      "organization_count": 33,
-      "system_count": 8,
+      "event_count": 90,
+      "page_count": 89,
+      "organization_count": 34,
+      "system_count": 9,
       "systems": [
         "Children's Hospital of Philadelphia",
         "Hawaii Pacific Health",
         "Houston Methodist",
         "IU Health",
         "Johns Hopkins Medicine",
+        "OHSU Health",
         "University Hospitals",
         "WVU Medicine",
         "Wellstar MCG Health"
