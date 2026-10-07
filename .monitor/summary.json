@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-06T15:12:17Z",
+  "updated_at": "2026-10-07T14:33:10Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,14 +8,14 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 266,
-    "page_count": 214
+    "event_count": 267,
+    "page_count": 215
   },
   "current_page_states": {
     "live_no_schedule": 53,
     "login_required": 137,
-    "public_schedule": 313,
-    "removed": 5,
+    "public_schedule": 312,
+    "removed": 6,
     "sso": 173
   },
   "classifications": {
@@ -44,13 +44,14 @@
       ]
     },
     "page_removed": {
-      "event_count": 3,
-      "page_count": 3,
-      "organization_count": 3,
-      "system_count": 2,
+      "event_count": 4,
+      "page_count": 4,
+      "organization_count": 4,
+      "system_count": 3,
       "systems": [
         "Cedars-Sinai",
-        "M Health Fairview"
+        "M Health Fairview",
+        "UC San Diego Health"
       ]
     },
     "page_restored": {
