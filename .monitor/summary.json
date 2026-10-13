@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-09T20:54:35Z",
+  "updated_at": "2026-10-13T19:17:08Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,8 +8,8 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 270,
-    "page_count": 216
+    "event_count": 272,
+    "page_count": 217
   },
   "current_page_states": {
     "live_no_schedule": 53,
@@ -20,10 +20,10 @@
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 69,
-      "page_count": 53,
-      "organization_count": 20,
-      "system_count": 16,
+      "event_count": 71,
+      "page_count": 54,
+      "organization_count": 21,
+      "system_count": 17,
       "systems": [
         "Cedars-Sinai",
         "Cleveland Clinic",
@@ -31,6 +31,7 @@
         "Houston Methodist",
         "Johns Hopkins Medicine",
         "MUSC Health",
+        "Mass General Brigham",
         "Morehouse School of Medicine",
         "Northwell Health",
         "Penn Medicine",
