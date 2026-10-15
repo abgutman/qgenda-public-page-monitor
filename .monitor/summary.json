@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-13T19:17:08Z",
+  "updated_at": "2026-10-15T18:18:24Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,8 +8,8 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 272,
-    "page_count": 217
+    "event_count": 273,
+    "page_count": 218
   },
   "current_page_states": {
     "live_no_schedule": 53,
@@ -20,9 +20,9 @@
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 71,
-      "page_count": 54,
-      "organization_count": 21,
+      "event_count": 72,
+      "page_count": 55,
+      "organization_count": 22,
       "system_count": 17,
       "systems": [
         "Cedars-Sinai",
