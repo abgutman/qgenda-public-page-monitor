@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated_at": "2026-10-23T18:21:48Z",
+  "updated_at": "2026-10-27T05:04:17Z",
   "tracked_inventory": {
     "page_count": 681,
     "organization_count": 313,
@@ -8,40 +8,52 @@
     "mapped_system_count": 75
   },
   "history": {
-    "event_count": 275,
-    "page_count": 218
+    "event_count": 956,
+    "page_count": 681
   },
   "current_page_states": {
-    "live_no_schedule": 53,
-    "login_required": 137,
-    "public_schedule": 312,
-    "removed": 6,
-    "sso": 173
+    "login_required": 681
   },
   "classifications": {
     "page_content_changed": {
-      "event_count": 74,
-      "page_count": 55,
-      "organization_count": 22,
-      "system_count": 17,
+      "event_count": 264,
+      "page_count": 224,
+      "organization_count": 87,
+      "system_count": 33,
       "systems": [
+        "Banner Health",
         "Cedars-Sinai",
+        "ChristianaCare",
         "Cleveland Clinic",
+        "Dartmouth Health",
         "Emory Healthcare",
+        "George Washington Medical Faculty Associates",
+        "Hawaii Pacific Health",
         "Houston Methodist",
         "Johns Hopkins Medicine",
+        "Keck Medicine of USC",
         "MUSC Health",
         "Mass General Brigham",
+        "MetroHealth System",
         "Morehouse School of Medicine",
+        "Mount Sinai Health System — New York",
+        "Northside Hospital",
         "Northwell Health",
+        "Ohio State Wexner Medical Center",
         "Penn Medicine",
+        "Penn State Health",
         "Piedmont Healthcare",
         "Stanford Health Care",
+        "Temple Health",
         "UC Davis Health",
         "UC San Diego Health",
         "UCSF Health",
+        "UVA Health",
         "University of Maryland Medical System",
-        "VA Health Care"
+        "University of Wisconsin Health",
+        "VA Health Care",
+        "VCU Health",
+        "Yale New Haven Health"
       ]
     },
     "page_removed": {
@@ -56,12 +68,17 @@
       ]
     },
     "page_restored": {
-      "event_count": 1,
-      "page_count": 1,
-      "organization_count": 1,
-      "system_count": 1,
+      "event_count": 7,
+      "page_count": 7,
+      "organization_count": 7,
+      "system_count": 6,
       "systems": [
-        "M Health Fairview"
+        "Cedars-Sinai",
+        "M Health Fairview",
+        "Stanford Health Care",
+        "UC San Diego Health",
+        "UCSF Health",
+        "VA Health Care"
       ]
     },
     "schedule_content_added": {
@@ -76,18 +93,67 @@
       ]
     },
     "schedule_content_removed": {
-      "event_count": 95,
-      "page_count": 93,
-      "organization_count": 11,
-      "system_count": 8,
+      "event_count": 407,
+      "page_count": 403,
+      "organization_count": 171,
+      "system_count": 57,
       "systems": [
+        "AdventHealth",
+        "Advocate Health",
+        "Albany Med Health System",
+        "Allegheny Health Network",
+        "Banner Health",
+        "Barrow Neurological Institute",
+        "Beth Israel Lahey Health",
+        "Boston Medical Center Health System",
         "Cedars-Sinai",
+        "Children's Healthcare of Atlanta",
+        "Cleveland Clinic",
+        "Cook County Health",
+        "Dartmouth Health",
         "Emory Healthcare",
+        "Endeavor Health / NorthShore",
+        "Froedtert & Medical College of Wisconsin",
+        "George Washington Medical Faculty Associates",
+        "Guthrie",
+        "Houston Methodist",
+        "Jefferson Health",
+        "Lehigh Valley Health Network / Jefferson Health",
+        "M Health Fairview",
+        "MUSC Health",
+        "Mass General Brigham",
+        "MetroHealth System",
+        "Montefiore Einstein",
+        "Morehouse School of Medicine",
+        "Mount Sinai Health System — New York",
+        "Mount Sinai Medical Center — Miami",
+        "NYU Langone Health",
         "NewYork-Presbyterian / Columbia University",
+        "Northside Hospital",
+        "Northwell Health",
+        "Ohio State Wexner Medical Center",
         "Penn Medicine",
+        "Penn State Health",
         "Piedmont Healthcare",
+        "Roper St. Francis Healthcare",
+        "Rush University System for Health",
+        "Scripps Health",
+        "St. Luke's University Health Network",
+        "Stanford Health Care",
+        "Temple Health",
+        "UAB Medicine",
+        "UC Davis Health",
+        "UC San Diego Health",
         "UCSF Health",
+        "UF Health",
+        "UPMC",
+        "UT Southwestern Medical Center",
         "UVA Health",
+        "University of Chicago Medicine",
+        "University of Iowa Health Care",
+        "University of Maryland Medical System",
+        "VA Health Care",
+        "Virginia Mason Franciscan Health",
         "Wellstar MCG Health"
       ]
     },
@@ -109,13 +175,30 @@
       ]
     },
     "sso_removed": {
-      "event_count": 3,
-      "page_count": 3,
-      "organization_count": 3,
-      "system_count": 2,
+      "event_count": 176,
+      "page_count": 175,
+      "organization_count": 96,
+      "system_count": 19,
       "systems": [
+        "Allegheny Health Network",
+        "Baylor Scott & White Health",
+        "Cedars-Sinai",
+        "Children's Hospital of Philadelphia",
+        "Duke Health",
         "Hawaii Pacific Health",
-        "WVU Medicine"
+        "Houston Methodist",
+        "IU Health",
+        "Jefferson Health",
+        "Johns Hopkins Medicine",
+        "Memorial Sloan Kettering Cancer Center",
+        "OHSU Health",
+        "Penn State Health",
+        "UC Irvine Health",
+        "UCLA Health",
+        "University Hospitals",
+        "Vanderbilt University Medical Center",
+        "WVU Medicine",
+        "Wellstar MCG Health"
       ]
     }
   }
